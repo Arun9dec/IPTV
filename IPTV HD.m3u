@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DD NEWS (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DD_News.png/220px-DD_News.png" group-title="News (Hindi)",DD NEWS (360p)
+https://m-c048-j2apps.s.llnwi.net/hls/0182.DDNews.in_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 (480p)" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News (Hindi)",NEWS 24 (480p)
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AAJTAK (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News (Hindi)",AAJTAK (720p)
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News (Hindi)",GNT (720p)
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABP NEWS (720p)" tvg-logo="https://static.abplive.com/frontend/images/ABP_logo_main.svg" group-title="News (Hindi)",ABP NEWS (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDIA TV (480p)" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV (480p)
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS (720p)" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS (720p)
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE HINDUSTAN (578p)" tvg-logo="https://hindi.cdn.zeenews.com/hindi/sites/all/themes/desktop_main_th/images/logos/zeehindustan.png" group-title="News (Hindi)",ZEE HINDUSTAN (578p)
+https://z5ams.akamaized.net/hindustan/tracks-v1a1/hdntl=exp=1634627283~acl=%2f*~data=hdntl~hmac=3fdc794f47aad9c1867855bac81dbc382e6cb682a29d204e516d58f8ce720d10/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS NATION (720p)" tvg-logo="https://static.newsnationtv.com/nntv-web/images/logo.png" group-title="News (Hindi)",NEWS NATION (720p)
+https://stream-05.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbOSXQZ1_Q0DM88bpprvR40)/dm/3/x7t0g3i/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAV BHARAT (480P)" tvg-logo="https://imgk.timesnownews.com/story/1200x900-04.png" group-title="News (Hindi)",TIMES NOW NAV BHARAT (480P)
+https://dai.google.com/linear/hls/pb/event/nRWQsGoJSzmcErJFgAy67g/stream/85e76a4b-e6ec-4640-b593-8851cb10e39d:SIN/variant/8a8ac122aa1ba806e559ce035382357d/bandwidth/928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS STATE UP/UK (720p)" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/News-State-UP.jpg" group-title="News (Hindi)",NEWS STATE UP/UK (720p)
+https://stream-01.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTKDHMxuFKVxC1r3Bun4KRg)/dm/3/x7t5r1g/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS (360p)" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2014/12/India-News-1-1.jpg" group-title="News (Hindi)",INDIA NEWS (360p)
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAHARA SAMAY (480p)" tvg-logo="http://www.samaylive.com/themes/new_theme/images/logo.png" group-title="News (Hindi)",SAHARA SAMAY (480p)
+https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="News (English)",MIRROR NOW (360p)
+https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/ac92f6a1-e608-429b-bc61-a695541d1d68:SIN/variant/6c1750d940a60044d8936e4ebbfc70c3/bandwidth/696000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/at-tab-it.png" group-title="News (English)",INDIA TODAY (720p)
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW (480P)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News (English)",TIMES NOW (480P)
+https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/344d5ee3-68b5-43f1-a183-911d79484ad7:SIN2/variant/cd70b309a8b141d57bc6a7d9e30d18b2/bandwidth/1028000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV 24X7 (480P)" tvg-logo="https://cdn.ndtv.com/static/ndtv_2014/images/ndtvlogo_blk.png" group-title="News (English)",NDTV 24X7 (480P)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS X (720P)" tvg-logo="https://newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="News (English)",NEWS X (720P)
+https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS (720p)" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News (Hindi)",ZEE BUSINESS (720p)
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://images.moneycontrol.com/images/hindi/revamp/tv/cnbc_logo.png" group-title="Business News (Hindi)",CNBC AWAAZ (504p)
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH (480P)" tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News (Hindi)",ET NOW SWADESH (480P)
+https://timesnowhindi-i.akamaihd.net/hls/live/1023684-b/swadeshtemp/chunklist_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW (720p)" tvg-logo="https://img.etimg.com/photo/60956986.cms" group-title="Business News (English)",ET NOW (720p)
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC TV 18 (504p)" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-logo.png" group-title="Business News (English)",CNBC TV 18 (504p)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT (550P)" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News (English)",NDTV PROFIT (550P)
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTII (480p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (480p)
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM (480p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (480p)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA (480P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (480P)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA (720p)" tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="Music (Hindi)",MUSIC INDIA (720p)
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD (480p)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-165/list/1170x658withlog_1849594732.jpg" group-title="Music (Hindi)",BOOGLE BOLLYWOOD (480p)
+https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD RETRO (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png" group-title="Entertainment (Hindi)",DD RETRO (480p)
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV (480p)" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" group-title="Entertainment (Hindi)",SHEMAROO TV (480p)
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE Q (480p)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fcd9cb12b7c047e88aac2eb/1607886854523-4RL9W9ASGFNM9UYNPGAB/TheQ_Logo2.png" group-title="Entertainment (Hindi)",THE Q (480p)
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIRANGI (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sahara-Firangi.jpg/220px-Sahara-Firangi.jpg" group-title="Entertainment (Hindi)",FIRANGI (480p)
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E24 (480p)" tvg-logo="https://media.news24online.com/static_dev/static_root/E24/images/logo.png" group-title="Entertainment (Hindi)",E24 (480p)
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0389.E24.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPIC TV (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Entertainment (Hindi)",EPIC TV (480p)
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL (480p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Ddnational.png" group-title="Entertainment (Hindi)",DD NATIONAL (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/%26TV.jpg" group-title="Entertainment (Hindi)",&TV HD
+https://zee.avipatilpro.repl.co/?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="" tvg-name="TASHAN MUSIC (480p)" tvg-logo="" group-title="Music (Punjabi)",TASHAN MUSIC (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7X MUSIC (480p)" tvg-logo="" group-title="Music (Punjabi)",7X MUSIC (480p)
+https://m-c010-j2apps.s.llnwi.net/hls/8053.LifePunjabi.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE (720p)" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Music (Punjabi)",BALLE BALLE (720p)
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WAH PUNJABI (480p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Wah_Punjabi.jpeg" group-title="Music (Punjabi)",WAH PUNJABI (480p)
+https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MH1 (480p)" tvg-logo="https://music.mhone.in/wp-content/uploads/2018/01/MH-ONE-Music-logo-525x160.png" group-title="Music (Punjabi)",MH1 (480p)
+https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS (720p)" tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Music (Haryanvi) ",HARYANA BEATS (720p)
+https://imagetv.in/hls20/haryanabeat/index.m3u8
