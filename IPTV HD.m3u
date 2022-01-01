@@ -59,10 +59,10 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD (480p)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-165/list/1170x658withlog_1849594732.jpg" group-title="Music (Hindi)",BOOGLE BOLLYWOOD (480p)
 https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DD RETRO (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png" group-title="Entertainment (Hindi)",DD RETRO (480p)
-https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV (480p)" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" group-title="Entertainment (Hindi)",SHEMAROO TV (480p)
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD RETRO (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png" group-title="Entertainment (Hindi)",DD RETRO (480p)
+https://m-c037-j2apps.s.llnwi.net/hls/7041.DDRetro.in_480p/index_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE Q (480p)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fcd9cb12b7c047e88aac2eb/1607886854523-4RL9W9ASGFNM9UYNPGAB/TheQ_Logo2.png" group-title="Entertainment (Hindi)",THE Q (480p)
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIRANGI (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sahara-Firangi.jpg/220px-Sahara-Firangi.jpg" group-title="Entertainment (Hindi)",FIRANGI (480p)
@@ -75,6 +75,8 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/%26TV.jpg" group-title="Entertainment (Hindi)",&TV HD
 https://zee.avipatilpro.repl.co/?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV" tvg-logo="https://www.hum.tv/wp-content/uploads/2020/11/logo.png" group-title="Entertainment (Hindi)",HUM TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641056549/ei/xTTQYf2JD-ueg8UPm7i70A0/ip/2401%3A4900%3A1f2f%3A7125%3A107b%3A7d55%3Aadd8%3Abc0f/id/OeUldUvbGGc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/in/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPjXFxnivzBU_-AuTe7YIcBbfhgQdqLW67M1vpJZvYuEAiBKhXF0CSiND6qGtiHd-9Chfd2SEeG0HHkN9UskUqzEdQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TASHAN MUSIC (480p)" tvg-logo="" group-title="Music (Punjabi)",TASHAN MUSIC (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7X MUSIC (480p)" tvg-logo="" group-title="Music (Punjabi)",7X MUSIC (480p)
