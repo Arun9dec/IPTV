@@ -179,6 +179,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/96439d98-db73-43c5-ab7e-b85f9b7bef6d/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Showbox (720p)" tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music (Hindi)",Showbox (720p)
 https://epiconvh.s.llnwi.net/live/showbox/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mtunes (720p)" tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music (Hindi)",Showbox (720p)
+https://epiconvh.s.llnwi.net/live/showbox/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ilove" tvg-logo="https://ilove.co.in/assets/images/logo.png" group-title="Music (Hindi)",ilove
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E24 (480p)" tvg-logo="https://media.news24online.com/static_dev/static_root/E24/images/logo.png" group-title="Music (Hindi)",E24 (480p)
