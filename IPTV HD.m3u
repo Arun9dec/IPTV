@@ -25,16 +25,10 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 News" tvg-logo="http://mhone.in/wp-content/uploads/2021/12/MH-ONE-LOGO.png" group-title="News (Hindi)",MH1 News
 https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A1 News" tvg-logo="https://www.a1live.in/images/logo.png" group-title="News (Hindi)",A1 News
-https://cdn.smartstream.video/smartstream-us/newsstate/newsstate.smil/chunklist_w756098039_b1200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Awaaz India TV" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News (Hindi)",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bharat Samachar" tvg-logo="https://bharatsamachartv.in/wp-content/uploads/2021/10/Bharat-Samachar-1.png" group-title="News (Hindi)",Bharat Samachar
-https://idvd.multitvsolution.com/idvo/bharatsamachar_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IBC24" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="News (Hindi)",IBC24
 https://livetv.ibc24.in/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jan TV" tvg-logo="http://jantv.in/Images/jantvlogo3.png" group-title="News (Hindi)",Jan TV
-http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist_w195591430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="News (Hindi)",Janta TV
 https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
