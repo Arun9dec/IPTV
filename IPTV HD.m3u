@@ -23,6 +23,8 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_eng=98800-video=1680400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAV BHARAT (720P)" tvg-logo="https://imgk.timesnownews.com/story/1200x900-04.png" group-title="News (Hindi)",TIMES NOW NAV BHARAT (720p)
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 News" tvg-logo="http://mhone.in/wp-content/uploads/2021/12/MH-ONE-LOGO.png" group-title="News (Hindi)",MH1 News
 https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Awaaz India TV" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News (Hindi)",Awaaz India TV
@@ -31,16 +33,12 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://livetv.ibc24.in/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="News (Hindi)",Janta TV
 https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sansad TV" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png" group-title="News (Hindi)",Sansad TV
-https://hls.media.nic.in//hls.media.nic.in/live/rstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sudarshan News" tvg-logo="http://sudarshannews.in/images/logo.jpg" group-title="News (Hindi)",Sudarshan News
 https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Surya Samachar" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6006.SuryaSamachar.in/en/1x1/208x208/test_pic1558593274997.jpg" group-title="News (Hindi)",Surya Samachar
-https://m-c037-j2apps.s.llnwi.net/hls/6006.SuryaSamachar.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Total TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0131.TotalTV.in/en/1x1/208x208/test_pic1544081844210.jpg" group-title="News (Hindi)",Total TV
-https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Rajyasabha)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png" group-title="News (Hindi)",Sansad TV (Rajyasabha)
+https://hls.media.nic.in/live/rstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png" group-title="News (Hindi)",Sansad TV (Loksabha)
+https://hls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://images.moneycontrol.com/images/hindi/revamp/tv/cnbc_logo.png" group-title="Business News (Hindi)",CNBC AWAAZ (504p)
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS (720p)" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News (Hindi)",ZEE BUSINESS (720p)
