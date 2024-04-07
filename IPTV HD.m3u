@@ -169,12 +169,16 @@ https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids (Hindi)",Sony Yay
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9XM (480p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (480p)
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA (480P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (480P)
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASTII (480p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (480p)
-https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a1d461f0-c566-4a89-9091-3bd456658708/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/6e9f50d9-bedc-454a-a6c6-a92ab0504c0b/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (504p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0baff191-00ed-4fef-b826-7300733d0b92/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",yrf-music (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/96439d98-db73-43c5-ab7e-b85f9b7bef6d/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showbox (720p)" tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music (Hindi)",Showbox (720p)
+https://epiconvh.s.llnwi.net/live/showbox/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ilove" tvg-logo="https://ilove.co.in/assets/images/logo.png" group-title="Music (Hindi)",ilove
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E24 (480p)" tvg-logo="https://media.news24online.com/static_dev/static_root/E24/images/logo.png" group-title="Music (Hindi)",E24 (480p)
