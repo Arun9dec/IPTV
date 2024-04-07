@@ -42,9 +42,9 @@ https://hls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://images.moneycontrol.com/images/hindi/revamp/tv/cnbc_logo.png" group-title="Business News (Hindi)",CNBC AWAAZ (504p)
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_eng=98800-video=1680400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS (720p)" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News (Hindi)",ZEE BUSINESS (720p)
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH (480P)" tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News (Hindi)",ET NOW SWADESH (480P)
-https://timesnowhindi-i.akamaihd.net/hls/live/1023684-b/swadeshtemp/chunklist_0.m3u8
+https://dai.google.com/linear/hls/pb/event/ESxxqb1yQ66F014Xpmeylw/stream/e0eb8104-f665-4c4c-b1dc-d7759a01b2d2:TPE/variant/de26034a216eeb21bc616a5344a6cfa2/bandwidth/1592800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Ddnational.png" group-title="Entertainment (Hindi)",DD NATIONAL 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1641061783/ei/N0nQYfmqJIuW3LUPwZSO8AQ/ip/2401%3A4900%3A1f2f%3A7125%3A107b%3A7d55%3Aadd8%3Abc0f/id/PzaZmE0eJ2Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfikko6kUhTkXXwJtScIKuvHQ-a_kMpMcE6pyWjVwBLcCIQDup3IqIlx-zj60QADeUNT1IflDDtmxgfzm6Rw-F5K_VA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjxtmOJSLhySjE4EThacVYX5kyzmCmBVveHaB93O5VXw6zsw0eYgrD-E&s=10" group-title="Entertainment (Hindi)",Star Plus HD
