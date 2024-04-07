@@ -11,7 +11,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunk
 #EXTINF:-1 tvg-id="" tvg-name="ABP NEWS (720p)" tvg-logo="https://static.abplive.com/frontend/images/ABP_logo_main.svg" group-title="News (Hindi)",ABP NEWS (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS (720p)" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS (720p)
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV (480p)" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV (480p)
 https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://bharat.republicworld.com/assets/images/header/r-bharat.png" group-title="News (Hindi)",Republic Bharat
