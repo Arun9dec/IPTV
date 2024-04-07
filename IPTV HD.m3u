@@ -17,7 +17,7 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://bharat.republicworld.com/assets/images/header/r-bharat.png" group-title="News (Hindi)",Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/2c8f2d5b-5972-4657-b495-73fdd04cf0e0/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News18 India" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8?sd=10&rebase=on
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=1680400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 (480p)" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News (Hindi)",NEWS 24 (480p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE HINDUSTAN (578p)" tvg-logo="https://hindi.cdn.zeenews.com/hindi/sites/all/themes/desktop_main_th/images/logos/zeehindustan.png" group-title="News (Hindi)",ZEE HINDUSTAN (578p)
