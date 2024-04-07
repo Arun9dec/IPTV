@@ -12,8 +12,8 @@ https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunk
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS (720p)" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS (720p)
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDIA TV (480p)" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV (480p)
-https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDIA TV (720p)" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV (480p)
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://bharat.republicworld.com/assets/images/header/r-bharat.png" group-title="News (Hindi)",Republic Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News18 India" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India
