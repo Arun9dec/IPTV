@@ -21,6 +21,8 @@ https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 18 India UP/UK" tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-up-uk-for-web.gif" group-title="News (Hindi)",News 18 India UP/UK (720p)
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_eng=98800-video=1680400.m3u8
+#EXTINF:-1 tvg-id="TV9 Bharatvarsh" tvg-logo="https://i.imgur.com/GEqUslW.png" group-title="News (Hindi)",TV9 Bharatvarsh (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAV BHARAT (720P)" tvg-logo="https://imgk.timesnownews.com/story/1200x900-04.png" group-title="News (Hindi)",TIMES NOW NAV BHARAT (720p)
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
@@ -34,7 +36,7 @@ https://livetv.ibc24.in/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="News (Hindi)",Janta TV
 https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sudarshan News" tvg-logo="http://sudarshannews.in/images/logo.jpg" group-title="News (Hindi)",Sudarshan News
-https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
+https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bharat24" tvg-logo="https://bharat24live.com/_next/image?url=%2Flogo.png&w=1080&q=75" group-title="News (Hindi)",Bharat24 (1080p)
 https://legitpro.co.in/bharat24live/bharat24live/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BharatSamacharTV" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News (Hindi)",BharatSamacharTV (360p)
@@ -72,7 +74,7 @@ http://test.comhttps://snehtv.in1.bitmana.io/live.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Rishtey" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment (Hindi)",Colors Rishtey
 https://snehtv.in1.bitmana.io/live.php?c=Rishtey&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-TV/5eab1433a609d2be14000010/small_16_9.jpg" group-title="Entertainment (Hindi)",SHEMAROO TV 
-https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_480p/index.m3u8
+https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
 #EXTINF:-1 tvg-id="" tvg-name="THE Q " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/The-Q/5fd3871ea609d2b6de000002/small_16_9.jpg" group-title="Entertainment (Hindi)",THE Q 
 https://cdn.live.shemaroome.com/qyoutv/selqyoutv/chunklist_w1409001133.m3u8?hdnts=st%3D1641041449%7Eexp%3D1641052249%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D4e62b23c4edca590b172d2821ad673de3271ac61bbfb3241fa304c34f8dfe75f
 #EXTINF:-1 tvg-id="" tvg-name="DD RETRO (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png" group-title="Entertainment (Hindi)",DD RETRO (480p)
@@ -220,7 +222,7 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 #EXTINF:-1 tvg-id="" tvg-name="Satsang" tvg-logo="https://sanskargroup.in/img/satsang_logo_new.png" group-title="Devotional (Hindi)",Satsang
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shubh" tvg-logo="https://sanskargroup.in/img/shubh.png" group-title="Devotional (Hindi)",Shubh
-https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_1.m3u8
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shubh Cinema" tvg-logo="https://sanskargroup.in/img/shubhcinema.png" group-title="Devotional (Hindi)",Shubh Cinema
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sanskar UK" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Devotional (Hindi)",Sanskar UK
