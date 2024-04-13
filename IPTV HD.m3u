@@ -170,9 +170,9 @@ https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids (Hindi)",Sony Yay
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a1d461f0-c566-4a89-9091-3bd456658708/1.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/6e9f50d9-bedc-454a-a6c6-a92ab0504c0b/1.m3u8
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (504p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/0baff191-00ed-4fef-b826-7300733d0b92/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",yrf-music (720p)
@@ -202,7 +202,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aastha " tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png" group-title="Devotional (Hindi)",Aastha 
-https://snehtv.in1.bitmana.io/live.php?c=Aastha&q=800&e=.m3u8
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna-2" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna-2
 https://snehtv.in1.bitmana.io/live.php?c=Sadhna&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ishwar " tvg-logo="http://www.sadhna.com/images/2.jpg" group-title="Devotional (Hindi)",Ishwar 
@@ -210,7 +210,7 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Devaam" tvg-logo="http://www.sadhna.com/images/3.png" group-title="Devotional (Hindi)",Devaam
 https://6n3yow8pl9ok-hls-live.5centscdn.com/devamlive/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aastha Bhajan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional (Hindi)",Aastha Bhajan
-https://snehtv.in1.bitmana.io/live.php?c=Aastha_Bhajan&q=800&e=.m3u8
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sanskar" tvg-logo="https://sanskargroup.in/images/Sanskar%20Logo.png" group-title="Devotional (Hindi)",Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Satsang" tvg-logo="https://sanskargroup.in/img/satsang_logo_new.png" group-title="Devotional (Hindi)",Satsang
