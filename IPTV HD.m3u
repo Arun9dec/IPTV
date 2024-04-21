@@ -281,6 +281,10 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 Music" tvg-logo="https://music.mhone.in/wp-content/uploads/elementor/thumbs/MH-ONE-LOGOBlack-small-phsfrdyb1qhrk27jslgf2uuqhngwlpyi1bgmayigq8.png" group-title="Music (Punjabi)",MH1 Music
 https://rtmp.smartstream.video/mhonemusic/mhonemusic/chunklist_w2109729066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://music.mhone.in/wp-content/uploads/elementor/thumbs/MH-ONE-LOGOBlack-small-phsfrdyb1qhrk27jslgf2uuqhngwlpyi1bgmayigq8.png" group-title="Music (Punjabi)", Window Punjab TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apna Punjab TV (720p)" tvg-logo="https://play-lh.googleusercontent.com/vw0ajFrUqmoLgAXfnUVBWFxhcG4Uso3o7RKRXTs4QZ66uULSE4D3E6WbdXlNu1DHD9Be" group-title="Music (Punjabi)", Apna Punjab TV (720p)
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS (720p)" tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Music (Haryanvi) ",HARYANA BEATS (720p)
 https://imagetv.in/hls20/haryanabeat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/at-tab-it.png" group-title="News (English)",INDIA TODAY (720p)
@@ -311,3 +315,5 @@ http://195.201.82.32:5001/play/a004
 http://195.201.82.32:5001/play/a002
 #EXTINF:-1 tvg-id="Pogo" tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png" group-title="Sports", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
