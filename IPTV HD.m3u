@@ -285,6 +285,8 @@ https://rtmp.smartstream.video/mhonemusic/mhonemusic/chunklist_w2109729066.m3u8
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apna Punjab TV (720p)" tvg-logo="https://play-lh.googleusercontent.com/vw0ajFrUqmoLgAXfnUVBWFxhcG4Uso3o7RKRXTs4QZ66uULSE4D3E6WbdXlNu1DHD9Be" group-title="Music (Punjabi)", Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desi Channel (720p)" tvg-logo="https://play-lh.googleusercontent.com/XB154ae7PXS8fGXOI7zKJKxuDbhazjfzKf-1wrJzZcdnG0FzA8giedu6QiTo6-jeh8Zx" group-title="Music (Punjabi)", Desi Channel (720p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS (720p)" tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Music (Haryanvi) ",HARYANA BEATS (720p)
 https://imagetv.in/hls20/haryanabeat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/at-tab-it.png" group-title="News (English)",INDIA TODAY (720p)
