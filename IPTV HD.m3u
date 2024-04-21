@@ -147,6 +147,10 @@ https://snehtv.in1.bitmana.io/live.php?c=History_18_Hindi&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment (Hindi)",Sony BBC Earth HD
 https://snehtv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA Tv" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="Infotainment (Hindi)",NASA Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2021/12/WildEarth-logo-white_esm2.png" group-title="Infotainment (Hindi)",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV Good Times" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Infotainment (Hindi)",NDTV Good Times
 https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment (Hindi)",TLC
@@ -181,6 +185,8 @@ https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
 http://iptv.prosto.tv:7000/ch208/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS Kids" tvg-logo="https://cms-tc.pbskids.org/globalresources/resources/img/pbs-kids-logo.svg?fhash=52b8c6e" group-title="Kids (English)",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo Tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w" group-title="Kids (English)",ZooMoo Tv
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
