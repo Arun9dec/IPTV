@@ -138,7 +138,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment (Hindi)",Discovery
 https://snehtv.in1.bitmana.io/live.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment (Hindi)",Discovery Science
-https://snehtv.in1.bitmana.io/live.php?c=Discovery_Science&q=800&e=.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment (Hindi)",Discovery Turbo
 https://snehtv.in1.bitmana.io/live.php?c=Discovery_Turbo&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History TV 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment (Hindi)",History TV 18
@@ -162,7 +162,7 @@ https://snehtv.in1.bitmana.io/live.php?c=Cartoon_Network_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids (Hindi)",Pogo
 https://snehtv.in1.bitmana.io/live.php?c=Pogo_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids (Hindi)",Discovery Kids
-https://snehtv.in1.bitmana.io/live.php?c=Discovery_Kids_2&q=800&e=.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha Cartoon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Cartoon.png" group-title="Kids (Hindi)",Maha Cartoon
 https://snehtv.in1.bitmana.io/live.php?c=Maha_Cartoon&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids (Hindi)",Nick
@@ -177,6 +177,10 @@ https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids (Hindi)",Sony Yay
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/375px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids (English)",Cartoonito
+http://iptv.prosto.tv:7000/ch208/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids" tvg-logo="https://cms-tc.pbskids.org/globalresources/resources/img/pbs-kids-logo.svg?fhash=52b8c6e" group-title="Kids (English)",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
