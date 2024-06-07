@@ -46,7 +46,7 @@ https://hls.media.nic.in/live/rstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png" group-title="News (Hindi)",Sansad TV (Loksabha)
 https://hls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://images.moneycontrol.com/images/hindi/revamp/tv/cnbc_logo.png" group-title="Business News (Hindi)",CNBC AWAAZ (504p)
-https://jcevents.jiocinema.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/hdntl=exp=1717890549~acl=%2f*~id=5fe511c3451440b7965dda29c6c396dc~data=hdntl~hmac=fa4b08b31ff0a4267dae3df301e5219a84d3dfc364eed36e74a1084add1f21f2/CNBC_Awaaz_voot_MOB-audio_98834_hin=98800-video=1272000.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-awaaz/1be0b1bd-3c05-4790-a6b9-f35d4d2a3271/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS (720p)" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News (Hindi)",ZEE BUSINESS (720p)
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH (480P)" tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News (Hindi)",ET NOW SWADESH (480P)
