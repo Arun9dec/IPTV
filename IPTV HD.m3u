@@ -56,8 +56,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjxtmOJSLhySjE4EThacVYX5kyzmCmBVveHaB93O5VXw6zsw0eYgrD-E&s=10" group-title="Entertainment (Hindi)",Star Plus HD
 http://103.120.172.74:4300
-#EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlLwPrNGBMZrF52v3oVUDkSODBYuw6CbKR9obhJ9GcqvuisBah8wAGes&s=10" group-title="Entertainment (Hindi)",Star Bharat HD
-http://195.201.82.32:5001/play/a025
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tag-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlLwPrNGBMZrF52v3oVUDkSODBYuw6CbKR9obhJ9GcqvuisBah8wAGes&s=10" group-title="Entertainment (Hindi)",Star Bharat HD
+https://www.bdtubelive.xyz/new.m3u8?id=119
+#EXTINF:-1 tvg-id="" tvg-name="Utsav Plus HD" tag-logo="https://en.wikipedia.org/wiki/Utsav_Plus#/media/File:Utsav_Plus_Logo.jpg" group-title="Entertainment (Hindi)",Utsav Plus HD
+https://www.bdtubelive.xyz/new.m3u8?id=105
+#EXTINF:-1 tvg-id="" tvg-name="Sony kal" tag-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="Entertainment (Hindi)",Sony kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment (Hindi)",&TV HD
 https://snehtv.in1.bitmana.io/live.php?c=And_TV_HD&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment (Hindi)",Zee TV HD
@@ -67,7 +71,7 @@ https://snehtv.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment (Hindi)",Sony HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
-https://snehtv.in1.bitmana.io/live.php?c=Sony_SAB_HD&q=800&e=.m3u8
+https://www.bdtubelive.xyz/new.m3u8?id=115
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment (Hindi)",Sony Pal
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Pal&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment (Hindi)",Colors HD
@@ -100,6 +104,10 @@ https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index_dvr.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Movie Club" tvg-logo="https://static3.tgstat.ru/channels/_0/d7/d768c61d3236323d99c10cfe6214dbb7.jpg" group-title="Movies (HIndi)",The Movie Club
 https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg" group-title="Movies (HIndi)",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/03/Bollywood-HD.jpg" group-title="Movies (HIndi)",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Zc1QSGXq0YI07WqFtr05KeQMaZnLRwsTIbfChBmBN0Y5FeZES1GFsk&s=10" group-title="Movies (HIndi)",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbW2lo5Bk2gxkv8PGROQQvjMPzXW-DeCum6LGUARbr2BzGLsoBaUNUUI&s=10" group-title="Movies (HIndi)",Star Gold Select HD
