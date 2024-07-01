@@ -184,6 +184,9 @@ https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=TLC_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment (Hindi)",Travel XP
 https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment (Hindi)",Travel 4K
+#EXTINF:-1 ,Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment (Hindi)",EPIC TV (480p)
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment (Hindi)",DD Kisan
@@ -306,6 +309,12 @@ https://snehtv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png" group-title="Sports"Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="EURO SPORTS HD" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="Sports"EURO SPORTS HD
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1 tvg-id="Trace Sports" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_TRACE_Sports.svg/1200px-Logo_TRACE_Sports.svg.png" group-title="Sports"Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Sports" Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://www.skysports.com/core/img/channels/Sky-Sports-Logo-transparent.svg" group-title="Sports",Sky Sports Cricket
 https://love2live.wideiptv.top/skysportscricketuk/tracks-v1/index.fmp4.m3u8?token=36e54dc4e79575f6544cea8091ff7ef1278cb24f-324b19bf1e58dd36e71c49e61593e72f-1717943549-1717932749
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-VwWgAPYQ70k1R60meu_P-lN85uhvxb1Hg&usqp=CAU" group-title="Sports",Star Sports 1 Hindi HD
@@ -347,7 +356,7 @@ https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/344d5ee
 #EXTINF:-1 tvg-id="" tvg-name="NDTV 24X7 (480P)" tvg-logo="https://cdn.ndtv.com/static/ndtv_2014/images/ndtvlogo_blk.png" group-title="News (English)",NDTV 24X7 (480P)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS X (720P)" tvg-logo="https://newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="News (English)",NEWS X (720P)
-https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
+https://livetv.newsx.com/itv/itvnetwork4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Republic TV" tvg-logo="https://www.republicworld.com/assets/images/header_image.svg" group-title="News (English)",Republic TV
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News (English)",AlJazeera English
@@ -366,6 +375,8 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="https://seeklogo.com/images/B/Baywatch-logo-9D0583D25F-seeklogo.com.png" group-title="Movies (English)",Baywatch
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/330px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="Movies (English)",DreamWorks2
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MoviesNowHD" tvg-logo="https://en.wikipedia.org/wiki/File:Movies_Now_logo.png" group-title="Movies (English)",MoviesNowHD
 http://195.26.87.217/live.ts?channelId=162&uid=7438&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Movies (English)",Action Hollywood Movies
