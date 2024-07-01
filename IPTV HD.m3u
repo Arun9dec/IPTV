@@ -27,6 +27,10 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/indianews-logo.jpg" group-title="News (Hindi)",INDIA NEWS
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 News" tvg-logo="http://mhone.in/wp-content/uploads/2021/12/MH-ONE-LOGO.png" group-title="News (Hindi)",MH1 News
 https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Awaaz India TV" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News (Hindi)",Awaaz India TV
@@ -298,6 +302,10 @@ https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in_480p/index.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Arihant_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Darshan 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional (Hindi)",Darshan 24
 https://snehtv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png" group-title="Sports", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png" group-title="Sports"Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://www.skysports.com/core/img/channels/Sky-Sports-Logo-transparent.svg" group-title="Sports",Sky Sports Cricket
 https://love2live.wideiptv.top/skysportscricketuk/tracks-v1/index.fmp4.m3u8?token=36e54dc4e79575f6544cea8091ff7ef1278cb24f-324b19bf1e58dd36e71c49e61593e72f-1717943549-1717932749
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-VwWgAPYQ70k1R60meu_P-lN85uhvxb1Hg&usqp=CAU" group-title="Sports",Star Sports 1 Hindi HD
@@ -374,8 +382,6 @@ http://195.201.82.32:5001/play/a004
 http://195.201.82.32:5001/play/a002
 #EXTINF:-1 tvg-id="Pogo" tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png" group-title="Sports", MUTV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle", FTV
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://cdn-ilaijbf.nitrocdn.com/YzeYmKigJpOUmEDUPOsqjcZLGXECGjCN/assets/images/optimized/rev-b218c91/www.foodfood.com/wp-content/uploads/2024/04/header-logo.png" group-title="Lifestyle", FOOD FOOD
