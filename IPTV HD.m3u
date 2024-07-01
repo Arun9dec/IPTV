@@ -339,13 +339,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 #EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS (720p)" tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Music (Haryanvi) ",HARYANA BEATS (720p)
 https://imagetv.in/hls20/haryanabeat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/at-tab-it.png" group-title="News (English)",INDIA TODAY (720p)
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="News (English)",MIRROR NOW (360p)
 https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/ac92f6a1-e608-429b-bc61-a695541d1d68:SIN/variant/6c1750d940a60044d8936e4ebbfc70c3/bandwidth/696000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW (480P)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News (English)",TIMES NOW (480P)
 https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/344d5ee3-68b5-43f1-a183-911d79484ad7:SIN2/variant/cd70b309a8b141d57bc6a7d9e30d18b2/bandwidth/1028000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV 24X7 (480P)" tvg-logo="https://cdn.ndtv.com/static/ndtv_2014/images/ndtvlogo_blk.png" group-title="News (English)",NDTV 24X7 (480P)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@2.m3u8
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS X (720P)" tvg-logo="https://newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="News (English)",NEWS X (720P)
 https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Republic TV" tvg-logo="https://www.republicworld.com/assets/images/header_image.svg" group-title="News (English)",Republic TV
