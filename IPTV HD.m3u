@@ -112,16 +112,23 @@ https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg" group-title="Movies (Hindi)",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Movie Club" tvg-logo="https://static3.tgstat.ru/channels/_0/d7/d768c61d3236323d99c10cfe6214dbb7.jpg" group-title="Movies (Hindi)",The Movie Club
-https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg" group-title="Movies (Hindi)",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/03/Bollywood-HD.jpg" group-title="Movies (Hindi)",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Prime" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2797.DistroTv.in/hi/1x1/208x208/test_pic1711868783155.jpg" group-title="Movies (Hindi)",Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 group-title="Zee Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",group-title="Movies (Hindi)",Zee Aflam
+#EXTINF:-1 tvg-id="" tvg-name=""Zee Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png", group-title="Movies (Hindi)",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies (Hindi)",Sony MAX 2
+http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Movies
+http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="" tvg-name="The Movie Club" tvg-logo="https://static3.tgstat.ru/channels/_0/d7/d768c61d3236323d99c10cfe6214dbb7.jpg" group-title="Movies (Hindi)",The Movie Club
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Zc1QSGXq0YI07WqFtr05KeQMaZnLRwsTIbfChBmBN0Y5FeZES1GFsk&s=10" group-title="Movies (Hindi)",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbW2lo5Bk2gxkv8PGROQQvjMPzXW-DeCum6LGUARbr2BzGLsoBaUNUUI&s=10" group-title="Movies (Hindi)",Star Gold Select HD
@@ -134,8 +141,6 @@ https://www.bdtubelive.xyz/new.m3u8?id=151
 https://snehtv.in1.bitmana.io/live.php?c=Zee_Action&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies (Hindi)",Sony Max HD
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Max_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies (Hindi)",Sony MAX 2
-http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="& Pictures HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies (Hindi)",& Pictures HD
 https://snehtv.in1.bitmana.io/live.php?c=And_Pictures_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies (Hindi)",Zee Bollywood
@@ -150,8 +155,6 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Movies" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png" group-title="Movies (Hindi)",ABZY Movies
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Movies
-http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="BFlix Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Movies (Hindi)",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Enterr 10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Movies (Hindi)",Enterr 10
