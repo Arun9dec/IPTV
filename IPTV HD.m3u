@@ -45,9 +45,9 @@ https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
 https://legitpro.co.in/bharat24live/bharat24live/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BharatSamacharTV" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News (Hindi)",BharatSamacharTV (360p)
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Rajyasabha)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png" group-title="News (Hindi)",Sansad TV (Rajyasabha)
+#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Rajyasabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Rajyasabha)
 https://hls.media.nic.in/live/rstv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png" group-title="News (Hindi)",Sansad TV (Loksabha)
+#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Loksabha)
 https://hls.media.nic.in/live/lstv/index.m3u8
 
 
