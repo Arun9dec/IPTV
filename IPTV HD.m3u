@@ -12,7 +12,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV (720p)" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV (720p)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Republic Bharat (720)" tvg-logo="https://bharat.republicworld.com/assets/images/header/r-bharat.png" group-title="News (Hindi)",Republic Bharat (720p)
-https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/d56ffd85-3be1-4c5a-9a3c-1be905516df9/2.m3u8
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/68ff7f3f-0122-43ca-980f-3c318f775c0a/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News18 India (720)" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India (720p)
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=1272000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24 (720)" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg" group-title="News (Hindi)",NEWS 24 (480p)
