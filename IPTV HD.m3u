@@ -49,12 +49,17 @@ https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 https://hls.media.nic.in/live/rstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2021/10/Eng-Logo-1.png" group-title="News (Hindi)",Sansad TV (Loksabha)
 https://hls.media.nic.in/live/lstv/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://images.moneycontrol.com/images/Hindi/revamp/tv/cnbc_logo.png" group-title="Business News (Hindi)",CNBC AWAAZ (504p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-awaaz/1be0b1bd-3c05-4790-a6b9-f35d4d2a3271/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS (720p)" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News (Hindi)",ZEE BUSINESS (720p)
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH (480P)" tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News (Hindi)",ET NOW SWADESH (480P)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Ddnational.png" group-title="Entertainment (Hindi)",DD NATIONAL 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=1087600.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
@@ -106,6 +111,9 @@ https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in_480p/index.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Dangal&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Bharti" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Entertainment (Hindi)",DD Bharti
 https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index_dvr.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg" group-title="Movies (Hindi)",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Movie Club" tvg-logo="https://static3.tgstat.ru/channels/_0/d7/d768c61d3236323d99c10cfe6214dbb7.jpg" group-title="Movies (Hindi)",The Movie Club
@@ -162,6 +170,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOW Cinema One" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Movies (Hindi)",WOW Cinema One
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment (Hindi)",Discovery
 https://denver1769.pages.dev/Discovery/discovery_hd_Hindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment (Hindi)",Discovery Science
@@ -193,10 +204,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment (Hindi)",DD Kisan
 https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in_480p/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids (Hindi)",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids (Hindi)",Pogo
-https://snehtv.in1.bitmana.io/live.php?c=Pogo_Hindi&q=800&e=.m3u8
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV (US)" tvg-logo="https://cdn.vectorstock.com/i/1000v/35/76/kids-tv-channel-logo-design-vector-42983576.jpg" group-title="Kids (Hindi)",Kids TV (US)
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids (Hindi)",Discovery Kids
@@ -221,6 +235,9 @@ http://iptv.prosto.tv:7000/ch208/video.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo Tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w" group-title="Kids (English)",ZooMoo Tv
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
@@ -251,10 +268,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio
 https://snehtv.in1.bitmana.io/live.php?c=B4U_Music&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD (480p)" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-165/list/1170x658withlog_1849594732.jpg" group-title="Music (Hindi)",BOOGLE BOLLYWOOD (480p)
 https://m-c01-j2apps.s.llnwi.net/hls/5416.BoogleBollywood.in_480p/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="A Music" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/A-Music.jpg" group-title="Music (English)",A Music
 https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kiss Tv" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Kiss-TV.jpg" group-title="Music (English)",Kiss Tv
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aastha " tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png" group-title="Devotional (Hindi)",Aastha 
@@ -309,15 +332,18 @@ https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in_480p/index.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Arihant_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Darshan 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional (Hindi)",Darshan 24
 https://snehtv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=.m3u8
+
+
+
 #EXTINF:-1 tvg-id="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png" group-title="Sports", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png" group-title="Sports"Real Madrid TV
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png" group-title="Sports",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="EURO SPORTS HD" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="Sports"EURO SPORTS HD
+#EXTINF:-1 tvg-id="EURO SPORTS HD" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="Sports",EURO SPORTS HD
 http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1 tvg-id="Trace Sports" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_TRACE_Sports.svg/1200px-Logo_TRACE_Sports.svg.png" group-title="Sports"Trace Sports
+#EXTINF:-1 tvg-id="Trace Sports" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_TRACE_Sports.svg/1200px-Logo_TRACE_Sports.svg.png" group-title="Sports",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Sports" Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Sports", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://www.skysports.com/core/img/channels/Sky-Sports-Logo-transparent.svg" group-title="Sports",Sky Sports Cricket
 https://love2live.wideiptv.top/skysportscricketuk/tracks-v1/index.fmp4.m3u8?token=36e54dc4e79575f6544cea8091ff7ef1278cb24f-324b19bf1e58dd36e71c49e61593e72f-1717943549-1717932749
@@ -331,6 +357,9 @@ http://195.201.82.32:5001/play/a024
 http://195.201.82.32:5001/play/a02b
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3rE0zigF1UPEchjJYdrPHXXUermuNnIHFA&usqp=CAU" group-title="Sports",Star Sports Select 2 HD
 http://195.201.82.32:5001/play/a02c
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TASHAN MUSIC (480p)" tvg-logo="" group-title="Music (Punjabi)",TASHAN MUSIC (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7X MUSIC (480p)" tvg-logo="" group-title="Music (Punjabi)",7X MUSIC (480p)
@@ -349,8 +378,14 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saga Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Sagamusic.jpg" group-title="Music (Punjabi)", Saga Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS (720p)" tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Music (Haryanvi) ",HARYANA BEATS (720p)
 https://imagetv.in/hls20/haryanabeat/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY (720p)" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/at-tab-it.png" group-title="News (English)",INDIA TODAY (720p)
 https://indiatodaylive.akamaized.net/hls/live/2014320-b/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="News (English)",MIRROR NOW (360p)
@@ -375,6 +410,9 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT (550P)" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News (English)",NDTV PROFIT (550P)
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Star_Channel_2023.svg" group-title="Movies (English)",Star Channel
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="https://seeklogo.com/images/B/Baywatch-logo-9D0583D25F-seeklogo.com.png" group-title="Movies (English)",Baywatch
@@ -391,12 +429,16 @@ http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text-thumbnail.png" group-title="Movies (English)",CINEMAX
 http://170.254.18.106/CINEMAX/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Star World Premier HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKK_1FgxZKzXBmrWDoVR1Xt9UBU9TyFC_64A&usqp=CAU" group-title="Entertainment (English)",Star World Premier HD
 http://195.201.82.32:5001/play/a004
 #EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3WWmtVjazZD8CaHCSp5qR2bTZ5wvC5CraQ&usqp=CAU" group-title="Entertainment (English)",Star World HD
 http://195.201.82.32:5001/play/a002
-#EXTINF:-1 tvg-id="Pogo" tvg-logo="https://i.imgur.com/70pYQh4.png" group-title="Kids",Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle", FTV
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://cdn-ilaijbf.nitrocdn.com/YzeYmKigJpOUmEDUPOsqjcZLGXECGjCN/assets/images/optimized/rev-b218c91/www.foodfood.com/wp-content/uploads/2024/04/header-logo.png" group-title="Lifestyle", FOOD FOOD
