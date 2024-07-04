@@ -168,6 +168,16 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NASA Tv" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/livestream-poster.png" group-title="Infotainment (Hindi)",NASA Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2021/12/WildEarth-logo-white_esm2.png" group-title="Infotainment (Hindi)",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Infotainment (Hindi)",Love nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment (Hindi)",TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment (Hindi)",Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment (Hindi)",Discovery
 https://denver1769.pages.dev/Discovery/discovery_hd_Hindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment (Hindi)",Discovery Science
@@ -180,21 +190,10 @@ https://snehtv.in1.bitmana.io/live.php?c=History_18_Hindi&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment (Hindi)",Sony BBC Earth HD
 https://snehtv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NASA Tv" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" group-title="Infotainment (Hindi)",NASA Tv
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2021/12/WildEarth-logo-white_esm2.png" group-title="Infotainment (Hindi)",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Infotainment (Hindi)",Love nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV Good Times" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Infotainment (Hindi)",NDTV Good Times
 https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment (Hindi)",TLC
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment (Hindi)",Travel XP
 https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment (Hindi)",Travel 4K
-#EXTINF:-1 ,Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment (Hindi)",EPIC TV (480p)
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment (Hindi)",DD Kisan
