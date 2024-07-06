@@ -118,7 +118,7 @@ https://snehtv.in1.bitmana.io/live.php?c=Zee_TV_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment (Hindi)",Zee Anmol
 https://snehtv.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
-https://www.bdtubelive.xyz/new.m3u8?id=115
+http://103.120.172.74:4400
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment (Hindi)",Sony Pal
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Pal&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment (Hindi)",Colors HD
@@ -347,13 +347,15 @@ https://love2live.wideiptv.top/skysportscricketuk/tracks-v1/index.fmp4.m3u8?toke
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-VwWgAPYQ70k1R60meu_P-lN85uhvxb1Hg&usqp=CAU" group-title="Sports",Star Sports 1 Hindi HD
 http://195.201.82.32:5001/play/a026
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrpM4QAGGPkEqgVcWheUYe3Jf5Qh9OBJuHr61o6v4prCEVH19GnjYfV0&s=10" group-title="Sports",Star Sports 1 HD
-http://195.201.82.32:5001/play/a027
+http://103.120.172.74:4600
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="Sports",Star Sports 2 HD
 http://103.120.172.74:4200
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5LLjYzaIalSIqgiuksAkcRNAflAXrG7Yww&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
 http://195.201.82.32:5001/play/a02b
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3rE0zigF1UPEchjJYdrPHXXUermuNnIHFA&usqp=CAU" group-title="Sports",Star Sports Select 2 HD
-http://195.201.82.32:5001/play/a02c
+http://103.120.172.74:4700
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony Sports 2
+http://103.120.172.74:4800
 
 
 
