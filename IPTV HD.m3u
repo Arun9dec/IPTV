@@ -80,6 +80,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",yrf-music (720p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Joo Music" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="Music (Hindi)",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ilove" tvg-logo="https://ilove.co.in/assets/images/logo.png" group-title="Music (Hindi)",ilove
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music (Hindi)",Zing
@@ -88,7 +90,6 @@ https://snehtv.in1.bitmana.io/live.php?c=Zing&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=MTV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music (Hindi)",MTV Beats
 https://snehtv.in1.bitmana.io/live.php?c=MTV_Beats_HD&q=800&e=.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music (Hindi)",B4U Music
 https://snehtv.in1.bitmana.io/live.php?c=B4U_Music&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD (480p)" tvg-logo="https://booglebollywood.com/wp-content/uploads/2022/08/boogle-bollywood-final_2-1024x327-1.png" group-title="Music (Hindi)",BOOGLE BOLLYWOOD (480p)
@@ -215,11 +216,13 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment (Hindi)",Travel 4K
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment (Hindi)",Discovery
-https://denver1769.pages.dev/Discovery/discovery_hd_Hindi.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/discoveryhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment (Hindi)",Discovery Science
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverysciin-samsungin/playlist.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment (Hindi)",Discovery Turbo
-https://snehtv.in1.bitmana.io/live.php?c=Discovery_Turbo&q=800&e=.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://test-tan-iota-90.vercel.app/images/investigation_discovery.jpg" group-title="Infotainment (Hindi)",Investigation Discovery
+https://cdn1-freeiptv25.vercel.app/m3u/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History TV 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment (Hindi)",History TV 18
 https://snehtv.in1.bitmana.io/live.php?c=History_18_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment (Hindi)",Animal Planet
@@ -250,7 +253,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo Tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w" group-title="Kids",ZooMoo Tv
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery Kids
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha Cartoon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Cartoon.png" group-title="Kids",Maha Cartoon
 https://snehtv.in1.bitmana.io/live.php?c=Maha_Cartoon&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick
@@ -446,6 +449,9 @@ http://195.201.82.32:5001/play/a002
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://cdn-ilaijbf.nitrocdn.com/YzeYmKigJpOUmEDUPOsqjcZLGXECGjCN/assets/images/optimized/rev-b218c91/www.foodfood.com/wp-content/uploads/2024/04/header-logo.png" group-title="Lifestyle", FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbsv7k-npTRQaOzwRhXBuhDw13l0dnbThRg&usqp=CAU" group-title="Lifestyle", DMAX
+https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
+
 
 
 
