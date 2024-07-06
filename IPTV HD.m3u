@@ -349,7 +349,7 @@ http://195.201.82.32:5001/play/a026
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrpM4QAGGPkEqgVcWheUYe3Jf5Qh9OBJuHr61o6v4prCEVH19GnjYfV0&s=10" group-title="Sports",Star Sports 1 HD
 http://195.201.82.32:5001/play/a027
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="Sports",Star Sports 2 HD
-http://195.201.82.32:5001/play/a024
+http://103.120.172.74:4200
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5LLjYzaIalSIqgiuksAkcRNAflAXrG7Yww&usqp=CAU" group-title="Sports",Star Sports Select 1 HD
 http://195.201.82.32:5001/play/a02b
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3rE0zigF1UPEchjJYdrPHXXUermuNnIHFA&usqp=CAU" group-title="Sports",Star Sports Select 2 HD
