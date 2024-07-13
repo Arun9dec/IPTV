@@ -111,6 +111,8 @@ https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/playlist.m3u8?dw=
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Steelbird Music " tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/cb8423a0-47f3-4ed4-b7a1-8bf5d0405160.jpg" group-title="Punjabi",Steelbird Music 
 https://stream.e2is.in/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pitaara TV " tvg-logo="https://qqcdnpictest.mxplay.com/pic/3132.DistroTv.in/en/1x1/208x208/test_pic1684937427901.webp" group-title="Punjabi",Pitaara TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/268e272d-0d3d-4bb1-85bf-50cdcbdf95de/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE " tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Punjabi",BALLE BALLE 
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oye Music" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/5f1e8ea0-2808-4e44-8f1d-7b269b4af73e.jpg" group-title="Punjabi",Oye Music 
@@ -139,6 +141,8 @@ http://103.120.172.74:4300
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-TV/5eab1433a609d2be14000010/small_16_9.jpg" group-title="Entertainment (Hindi)",SHEMAROO TV 
 https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Umang Plus" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4998.DistroTv.in/hi/1x1/208x208/test_pic1709883348816.webp" group-title="Entertainment (Hindi)",Shemaroo Umang Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/cb5cefa7-90d6-44f0-b64f-7cb82eb15e28/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony kal" tag-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="Entertainment (Hindi)",Sony kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tag-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlLwPrNGBMZrF52v3oVUDkSODBYuw6CbKR9obhJ9GcqvuisBah8wAGes&s=10" group-title="Entertainment (Hindi)",Star Bharat HD
@@ -149,6 +153,8 @@ https://www.bdtubelive.xyz/new.m3u8?id=105
 https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06d8f45295e759ab9e52a830ddd94c814164cd16b62c8ed1af68da91202669fd348151936089c21a787d5124132f9dba60349b0ec7f6a24bd60c43f76e9c299ff616e2ec8e506a35d6fd66cf0c9720ebe950b660001744a96ecab75e6ca0b43c210&vtoken=
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment (Hindi)",Zee TV HD
 https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06dca40b2bd56e53952a444a00bc39734f6532a7d5f71ed2a7d614005fa5bcb1fe3e767d528ac814425e013ac0f7c8ed7a983f3a60d937412ee2a1a8cc94940f0c42d3666bc3fd682cdb0428cf1719f2a4ca203e4542bc54b494ce388ed4fd5ce06&vtoken=
+#EXTINF:-1 tvg-id="" tvg-name="Nazara" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4592.DistroTv.in/hi/1x1/208x208/test_pic1697701337563.webp" group-title="Entertainment (Hindi)",Nazara
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/nazara/f3f05617-d65b-48dc-91e3-64689c879ea2/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment (Hindi)",Zee Anmol
 https://snehtv.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
@@ -180,6 +186,8 @@ https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index_dvr.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Desi" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5012.DistroTv.in/hi/1x1/208x208/test_pic1710252142411.webp" group-title="Movies (Hindi)",Hollywood Desi
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/2722db36-cea5-4fee-ae38-85dafeac6a16/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg" group-title="Movies (Hindi)",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg" group-title="Movies (Hindi)",Bollywood Classic
@@ -280,7 +288,7 @@ https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment",Travel XP
 https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
-https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06de57ff6c7a1179a83873d050940f1677d681d0fa8a4835a3242eb8b108ca557308071a8ee01e12eedc215ec687cf0860903adf920774ff2f6f03af6924e5301fd7e284b91b63231164d3aad8d5a9003fbb757dc8eeb1ec627c5553f871e9628ee&vtoken=
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/a266124c-5f05-44a4-973e-c13ccdf68030/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
 https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in_480p/index.m3u8
 
@@ -314,6 +322,11 @@ https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yay
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo=https://qqcdnpictest.mxplay.com/pic/3449.DistroTv.in/en/1x1/208x208/test_pic1684937177328.webp" group-title="Kids",Kids TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/173559ca-f121-46f7-b468-a231b630347b/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hooray Rhymes" tvg-logo=https://qqcdnpictest.mxplay.com/pic/5013.DistroTv.in/en/1x1/208x208/test_pic1710252170632.webp" group-title="Kids",Hooray Rhymes
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/3b756be5-6138-4b4b-8f7b-a5c12fc866fb/2.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Deluxe Music" tvg-logo="https://www.livehdtv.com/uploads/kanal/20553deluxe%20music%20logo.png" group-title="Music (English)",Deluxe Music
@@ -431,6 +444,8 @@ https://dai.google.com/linear/hls/pb/event/DXkHhH2QSnma-HnE3QJqlA/stream/ac92f6a
 https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/344d5ee3-68b5-43f1-a183-911d79484ad7:SIN2/variant/cd70b309a8b141d57bc6a7d9e30d18b2/bandwidth/1028000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV 24X7 " tvg-logo="https://cdn.ndtv.com/static/ndtv_2014/images/ndtvlogo_blk.png" group-title="News (English)",NDTV 24X7 
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News9Live " tvg-logo="https://qqcdnpictest.mxplay.com/pic/4104.DistroTv.in/en/1x1/208x208/test_pic1690451549448.webp" group-title="News (English)",News9Live
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/a75e69ff-c762-4dd0-8c1e-e44da4488265/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS X " tvg-logo="https://newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="News (English)",NEWS X 
 https://livetv.newsx.com/itv/itvnetwork4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Republic TV" tvg-logo="https://www.republicworld.com/assets/images/header_image.svg" group-title="News (English)",Republic TV
