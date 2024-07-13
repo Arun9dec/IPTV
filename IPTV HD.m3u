@@ -105,15 +105,17 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w9162
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X Tashan " tvg-logo="" group-title="Punjabi",9X Tashan 
 https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/playlist.m3u8?dw=60&hdnts=st=1720851947~exp=1720866347~acl=!*/28072023/smil:9xtashan.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=5a83ebeae26862d73f81ea14948e43a5099489e26ed4d5dfa94f52aa9be1a524&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
-#EXTINF:-1 tvg-id="" tvg-name="7X MUSIC " tvg-logo="" group-title="Punjabi",7X MUSIC 
+#EXTINF:-1 tvg-id="" tvg-name="7X MUSIC " tvg-logo="https://bx-tv.com/wp-content/uploads/2022/11/7x-music-Punjabi.jpg" group-title="Punjabi",7X MUSIC 
 https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Steelbird Music " tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/cb8423a0-47f3-4ed4-b7a1-8bf5d0405160.jpg" group-title="Punjabi",Steelbird Music 
+https://stream.e2is.in/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE " tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Punjabi",BALLE BALLE 
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WAH PUNJABI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Wah_Punjabi.jpeg" group-title="Punjabi",WAH PUNJABI 
 https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 Music" tvg-logo="https://music.mhone.in/wp-content/uploads/elementor/thumbs/MH-ONE-LOGOBlack-small-phsfrdyb1qhrk27jslgf2uuqhngwlpyi1bgmayigq8.png" group-title="Punjabi",MH1 Music
 https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://music.mhone.in/wp-content/uploads/elementor/thumbs/MH-ONE-LOGOBlack-small-phsfrdyb1qhrk27jslgf2uuqhngwlpyi1bgmayigq8.png" group-title="Punjabi", Window Punjab TV
+#EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://windowpunjab.com/wp-content/uploads/elementor/thumbs/Window-Punjab-Final-1-qptresxjgdwxtlpmzyjgpogtzao0yzkefgnn2q3280.png" group-title="Punjabi", Window Punjab TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apna Punjab TV " tvg-logo="https://play-lh.googleusercontent.com/vw0ajFrUqmoLgAXfnUVBWFxhcG4Uso3o7RKRXTs4QZ66uULSE4D3E6WbdXlNu1DHD9Be" group-title="Punjabi", Apna Punjab TV 
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
