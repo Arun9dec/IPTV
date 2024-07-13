@@ -380,8 +380,8 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w12482549
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w916292819_b864000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain" group-title="Punjabi",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TASHAN MUSIC " tvg-logo="" group-title="Punjabi",TASHAN MUSIC 
-https://m-c036-j2apps.s.llnwi.net/hls/8032.HaryanaTashanMusic.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9X Tashan " tvg-logo="" group-title="Punjabi",9X Tashan 
+https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7X MUSIC " tvg-logo="" group-title="Punjabi",7X MUSIC 
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE " tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Punjabi",BALLE BALLE 
