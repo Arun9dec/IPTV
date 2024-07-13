@@ -117,6 +117,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oye Music" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/5f1e8ea0-2808-4e44-8f1d-7b269b4af73e.jpg" group-title="Punjabi",Oye Music 
 http://167.86.109.254:1937/OyeMusic/myStream/chunklist_w390651273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BritAsiaTV " tvg-logo="https://qqcdnpictest.mxplay.com/pic/3633.DistroTv.in/en/1x1/208x208/test_pic1690463007562.webp" group-title="Music (Hindi)",BritAsiaTV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/6bc4bcc5-b280-40d0-9425-dd0554283e8f/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WAH PUNJABI " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Wah_Punjabi.jpeg" group-title="Punjabi",WAH PUNJABI 
 https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 Music" tvg-logo="https://music.mhone.in/wp-content/uploads/elementor/thumbs/MH-ONE-LOGOBlack-small-phsfrdyb1qhrk27jslgf2uuqhngwlpyi1bgmayigq8.png" group-title="Punjabi",MH1 Music
@@ -129,6 +131,8 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saga Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Sagamusic.jpg" group-title="Punjabi", Saga Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SANJHA TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2949.DistroTv.in/en/1x1/208x208/test_pic1688061643189.webp" group-title="Punjabi", SANJHA TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sanjha-tv/377a697a-3846-4168-ae28-6dc6535396a0/0.m3u8
 
 
 
@@ -337,7 +341,10 @@ https://30a-tv.com/feeds/720p/6.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE Urban" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3243.DistroTv.in/en/1x1/208x208/test_pic1690453758770.webp" group-title="Music (English)",TRACE Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/878ffec2-e3d9-4210-8c02-d676b19769e7/1.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Latina" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3242.DistroTv.in/es/1x1/208x208/test_pic1690453792828.webp" group-title="Music (English)",TRACE Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/6ea037b0-62cb-4281-ad92-261b10bf3e91/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Brasil" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3307.DistroTv.in/en/1x1/208x208/test_pic1690454503261.webp" group-title="Music (English)",Brasil
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/d8d977a0-afee-4cea-963e-2725ec3748a0/1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna
