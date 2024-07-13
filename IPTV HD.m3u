@@ -91,7 +91,7 @@ https://snehtv.in1.bitmana.io/live.php?c=MTV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music (Hindi)",MTV Beats
 https://snehtv.in1.bitmana.io/live.php?c=MTV_Beats_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music (Hindi)",B4U Music
-https://snehtv.in1.bitmana.io/live.php?c=B4U_Music&q=800&e=.m3u8
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06ddcfc4af92613961c7e4c1acef21c3f78c8414c58bd4d6462c3fdcb05c2dd80b17890e2dc2375e3a0f07c3f05f54b95908d584606e5ce4bdbedc7f4846ed801727352a4c986e74c75a4cb9bd4e6e62c2970655dc8b399dd29dbad371e942111d4&vtoken=
 #EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD " tvg-logo="https://booglebollywood.com/wp-content/uploads/2022/08/boogle-bollywood-final_2-1024x327-1.png" group-title="Music (Hindi)",BOOGLE BOLLYWOOD 
 https://livegeoroueu.akamaized.net/270723/smil:bogglebolly.smil/chunklist_b1628000.m3u8?hdntl=exp=1720196482~acl=!*/270723/smil:bogglebolly.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=492dbad986b2c489a04e0072674214f8a8cba46e5adc898e7d8ebace140c9e49
 
@@ -104,7 +104,8 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w9162
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain" group-title="Punjabi",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X Tashan " tvg-logo="" group-title="Punjabi",9X Tashan 
-https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/chunklist_b1928000.m3u8
+https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/chunklist_b1928000.m3u8?hdntl=exp=1720938351~acl=!*/28072023/smil:9xtashan.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~data=hdntl~hmac=d0df2bbe39a1755257b0c7817b16bc1ce1ef73a35a3c3c9e8f8e298ef339ae0d
+https://www.9xtashan.in/live/
 #EXTINF:-1 tvg-id="" tvg-name="7X MUSIC " tvg-logo="" group-title="Punjabi",7X MUSIC 
 https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BALLE BALLE " tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Punjabi",BALLE BALLE 
@@ -140,9 +141,9 @@ https://www.bdtubelive.xyz/new.m3u8?id=119
 #EXTINF:-1 tvg-id="" tvg-name="Utsav Plus HD" tag-logo="https://en.wikipedia.org/wiki/Utsav_Plus#/media/File:Utsav_Plus_Logo.jpg" group-title="Entertainment (Hindi)",Utsav Plus HD
 https://www.bdtubelive.xyz/new.m3u8?id=105
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment (Hindi)",&TV HD
-https://snehtv.in1.bitmana.io/live.php?c=And_TV_HD&q=250&e=.m3u8
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06d8f45295e759ab9e52a830ddd94c814164cd16b62c8ed1af68da91202669fd348151936089c21a787d5124132f9dba60349b0ec7f6a24bd60c43f76e9c299ff616e2ec8e506a35d6fd66cf0c9720ebe950b660001744a96ecab75e6ca0b43c210&vtoken=
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment (Hindi)",Zee TV HD
-https://snehtv.in1.bitmana.io/live.php?c=Zee_TV_HD&q=800&e=.m3u8
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06dca40b2bd56e53952a444a00bc39734f6532a7d5f71ed2a7d614005fa5bcb1fe3e767d528ac814425e013ac0f7c8ed7a983f3a60d937412ee2a1a8cc94940f0c42d3666bc3fd682cdb0428cf1719f2a4ca203e4542bc54b494ce388ed4fd5ce06&vtoken=
 #EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment (Hindi)",Zee Anmol
 https://snehtv.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
@@ -273,7 +274,7 @@ https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment",Travel XP
 https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
-https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06de57ff6c7a1179a83873d050940f1677d681d0fa8a4835a3242eb8b108ca557308071a8ee01e12eedc215ec687cf0860903adf920774ff2f6f03af6924e5301fd7e284b91b63231164d3aad8d5a9003fbb757dc8eeb1ec627c5553f871e9628ee&vtoken=
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
 https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in_480p/index.m3u8
 
@@ -387,7 +388,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://www.skysports.com/core/img/channels/Sky-Sports-Logo-transparent.svg" group-title="Sports",Sky Sports Cricket
 https://love2live.wideiptv.top/skysportscricketuk/tracks-v1/index.fmp4.m3u8?token=36e54dc4e79575f6544cea8091ff7ef1278cb24f-324b19bf1e58dd36e71c49e61593e72f-1717943549-1717932749
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-VwWgAPYQ70k1R60meu_P-lN85uhvxb1Hg&usqp=CAU" group-title="Sports",Star Sports 1 Hindi HD
-http://195.201.82.32:5001/play/a026
+https://crichdlive.com/embed/play.m3u8?key=CRICHDLIVE&c=starhindi
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrpM4QAGGPkEqgVcWheUYe3Jf5Qh9OBJuHr61o6v4prCEVH19GnjYfV0&s=10" group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="Sports",Star Sports 2 HD
