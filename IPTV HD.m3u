@@ -104,7 +104,7 @@ https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w9162
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain" group-title="Punjabi",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X Tashan " tvg-logo="" group-title="Punjabi",9X Tashan 
-https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/chunklist_b1928000.m3u8?hdntl=exp=1720938351~acl=!*/28072023/smil:9xtashan.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~data=hdntl~hmac=d0df2bbe39a1755257b0c7817b16bc1ce1ef73a35a3c3c9e8f8e298ef339ae0d
+https://livegeoroueu.akamaized.net/28072023/smil:9xtashan.smil/playlist.m3u8?dw=60&hdnts=st=1720851947~exp=1720866347~acl=!*/28072023/smil:9xtashan.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~hmac=5a83ebeae26862d73f81ea14948e43a5099489e26ed4d5dfa94f52aa9be1a524&ud=1037_9xm_21691719_live_-1_-1&b=100-2500
 https://www.9xtashan.in/live/
 #EXTINF:-1 tvg-id="" tvg-name="7X MUSIC " tvg-logo="" group-title="Punjabi",7X MUSIC 
 https://stream.e2is.in/hls/7xMusic.m3u8
