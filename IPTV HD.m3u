@@ -78,8 +78,10 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://yt3.googleusercontent.com/dKBpjdqRkmSJqqLUybd9iygGh1iyZgqEkqVDaYaFvrs0ZO93bbVq00L4TQH2XabJYOq1Igp1QA=s176-c-k-c0x00ffffff-no-rj" group-title="Music (Hindi)",Shemaroo Filmigaane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="yrf-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",yrf-music 
+#EXTINF:-1 tvg-id="" tvg-name="YRF-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",YRF-Music 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Only Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="Music (Hindi)",Only Music 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/91ce5d35-3f76-4522-bf3b-5ff100d4be58/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Joo Music" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="Music (Hindi)",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ilove" tvg-logo="https://ilove.co.in/assets/images/logo.png" group-title="Music (Hindi)",ilove
@@ -265,8 +267,8 @@ https://cdn1-freeiptv25.vercel.app/m3u/TRVL_Channel.m3u8
 https://cdn1-freeiptv25.vercel.app/m3u/HGTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctbIIxqAJ8INZn8YGhXM4xBoQ8X3V7O8rMg&usqp=CAU" group-title="Infotainment",Food Network
 https://cdn1-freeiptv25.vercel.app/m3u/Food Network.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TED" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3305.DistroTv.in/en/1x1/208x208/test_pic1684937638965.webp" group-title="Infotainment",TED
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/004fecf1-a761-42df-adaa-237c6623a52e/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History TV 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV 18
 https://snehtv.in1.bitmana.io/live.php?c=History_18_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet
@@ -314,11 +316,14 @@ https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Deluxe Music" tvg-logo="https://www.livehdtv.com/uploads/kanal/20553deluxe%20music%20logo.png" group-title="Music (English)",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6691e0d843fd6_13018905_2407130205_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Music" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/A-Music.jpg" group-title="Music (English)",A Music
 https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kiss Tv" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Kiss-TV.jpg" group-title="Music (English)",Kiss Tv
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Urban" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3243.DistroTv.in/en/1x1/208x208/test_pic1690453758770.webp" group-title="Music (English)",TRACE Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/878ffec2-e3d9-4210-8c02-d676b19769e7/1.m3u8
 
 
 
@@ -403,14 +408,18 @@ http://195.201.82.32:5001/play/a02b
 http://103.120.172.74:4700
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sports 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony Sports 2
 http://103.120.172.74:4800
+#EXTINF:-1 tvg-id="" tvg-name="MotorRacing" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1714.DistroTv.in/en/1x1/208x208/test_pic1684937340877.webp" group-title="Sports",MotorRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/7ffeb512-0424-4489-aad3-0055c5a7469c/1.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS " tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Music (Haryanvi) ",HARYANA BEATS 
+#EXTINF:-1 tvg-id="" tvg-name="HARYANA BEATS " tvg-logo="https://www.haryanabeats.com/wp-content/uploads/2021/09/hb-png.png" group-title="Haryanvi ",HARYANA BEATS 
 https://imagetv.in/hls20/haryanabeat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Saga Music Haryanvi " tvg-logo="https://qqcdnpictest.mxplay.com/pic/5051.DistroTv.in/bgc/1x1/208x208/test_pic1711870515037.png" group-title="Haryanvi ",Saga Music Haryanvi
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/883dfd25-d55e-4c49-b385-f1e440f36e4a/2.m3u8
 
 
 
@@ -438,6 +447,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT (550P)" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News (English)",NDTV PROFIT (550P)
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1244.DistroTv.in/en/1x1/208x208/test_pic1684936918270.webp" group-title="Business News (English)",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/a8410606-efd5-4a87-a103-5410e6ee5c13/3.m3u8
 
 
 
@@ -477,5 +488,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dabangg" tag-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Dabangg.png" group-title="Entertainment (Bhojpuri)",Dabangg
+#EXTINF:-1 tvg-id="" tvg-name="Dabangg" tag-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Dabangg.png" group-title="Bhojpuri",Dabangg
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filamchi" tag-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Bhojpuri",Filamchi
+https://epiconvh.s.llnwi.net/live/filamchi/master_1024.m3u8
