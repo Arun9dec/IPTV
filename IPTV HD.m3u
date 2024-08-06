@@ -67,11 +67,11 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW " tvg-logo="https://img.etimg.com/photo/60956986.cms" group-title="Business News",ET NOW 
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News",NDTV PROFIT
-https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+https://dai.google.com/linear/hls/pb/event/QuU6z3GSTDaXuLL9Hs5A5Q/stream/61347577-a6ef-48f5-a2f6-4a8025f7257b:SIN2/variant/57b01ab5c18db7eeef99ce90a2c959ba/bandwidth/1628000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://w7.pngwing.com/pngs/657/861/png-transparent-bloomberg-terminal-business-bloomberg-government-organization-business-text-people-logo.png" group-title="Business News",Bloomberg
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1244.DistroTv.in/en/1x1/208x208/test_pic1684936918270.webp" group-title="Business News",Euronews
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/a8410606-efd5-4a87-a103-5410e6ee5c13/3.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
@@ -81,9 +81,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (504p)
-https://amg01448-samsungin-mastiiin-samsungin-o3n9m.amagi.tv/playlist/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/330dd4a6-e439-4767-8d22-1bdb543fff06/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Showbox " tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music (Hindi)",Showbox 
-https://epiconvh.s.llnwi.net/live/showbox/master_720.m3u8
+https://epiconvh.s.llnwi.net/live/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E24 " tvg-logo="https://e24bollywood.com/wp-content/themes/news24theme/assets/images/logo.png" group-title="Music (Hindi)",E24 
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music (Hindi)",MUSIC INDIA 
@@ -92,22 +92,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YRF-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",YRF-Music 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Only Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="Music (Hindi)",Only Music 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/91ce5d35-3f76-4522-bf3b-5ff100d4be58/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Joo Music" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="Music (Hindi)",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ilove" tvg-logo="https://ilove.co.in/assets/images/logo.png" group-title="Music (Hindi)",ilove
-https://ilove.livebox.co.in/wowinhls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Music (Hindi)",Zing
-https://snehtv.in1.bitmana.io/live.php?c=Zing&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music (Hindi)",MTV
-https://snehtv.in1.bitmana.io/live.php?c=MTV&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Beats" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music (Hindi)",MTV Beats
-https://snehtv.in1.bitmana.io/live.php?c=MTV_Beats_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music (Hindi)",B4U Music
-https://fifaxbd.fun/JIOxRANAPK/stream.m3u8?chunks=c33979067be55ba29145ae28f4d57c5ae9a0738576b5d2f9c6c18d361b86a06ddcfc4af92613961c7e4c1acef21c3f78c8414c58bd4d6462c3fdcb05c2dd80b17890e2dc2375e3a0f07c3f05f54b95908d584606e5ce4bdbedc7f4846ed801727352a4c986e74c75a4cb9bd4e6e62c2970655dc8b399dd29dbad371e942111d4&vtoken=
-#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD " tvg-logo="https://booglebollywood.com/wp-content/uploads/2022/08/boogle-bollywood-final_2-1024x327-1.png" group-title="Music (Hindi)",BOOGLE BOLLYWOOD 
-https://livegeoroueu.akamaized.net/270723/smil:bogglebolly.smil/chunklist_b1628000.m3u8?hdntl=exp=1720196482~acl=!*/270723/smil:bogglebolly.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=492dbad986b2c489a04e0072674214f8a8cba46e5adc898e7d8ebace140c9e49
+#EXTINF:-1 tvg-id="" tvg-name="Only Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="Music (Hindi)",Only Music 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/cb88be87-9e97-480a-b648-dc769daad5a5/0.m3u8
+
 
 
 
