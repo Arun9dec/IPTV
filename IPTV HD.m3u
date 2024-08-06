@@ -62,12 +62,14 @@ https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Business Today " tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/logo/bttv-new-logo.png" group-title="Business News",Business Today 
 https://bttvlive-amd.akamaized.net/hls/live/2096488-b/live/bttv/bttv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC TV 18 (504p)" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-logo.png" group-title="Business News",CNBC TV 18 (504p)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC TV 18 (504p)" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-logo.png" group-title="Business News",CNBC TV 18 
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2336400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW " tvg-logo="https://img.etimg.com/photo/60956986.cms" group-title="Business News",ET NOW 
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT (550P)" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News",NDTV PROFIT (550P)
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News",NDTV PROFIT
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://w7.pngwing.com/pngs/657/861/png-transparent-bloomberg-terminal-business-bloomberg-government-organization-business-text-people-logo.png" group-title="Business News",Bloomberg
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1244.DistroTv.in/en/1x1/208x208/test_pic1684936918270.webp" group-title="Business News",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/a8410606-efd5-4a87-a103-5410e6ee5c13/3.m3u8
 
