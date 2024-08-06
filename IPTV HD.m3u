@@ -54,12 +54,22 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_india_,48,128,256,382,51
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News (Hindi)",CNBC AWAAZ (504p)
+#EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News",CNBC AWAAZ (504p)
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=1272000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS " tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News (Hindi)",ZEE BUSINESS 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS " tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News",ZEE BUSINESS 
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH " tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News (Hindi)",ET NOW SWADESH 
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH " tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News",ET NOW SWADESH 
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Business Today " tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/logo/bttv-new-logo.png" group-title="Business News",Business Today 
+https://bttvlive-amd.akamaized.net/hls/live/2096488-b/live/bttv/bttv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC TV 18 (504p)" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-logo.png" group-title="Business News",CNBC TV 18 (504p)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW " tvg-logo="https://img.etimg.com/photo/60956986.cms" group-title="Business News",ET NOW 
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT (550P)" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News",NDTV PROFIT (550P)
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1244.DistroTv.in/en/1x1/208x208/test_pic1684936918270.webp" group-title="Business News",Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/a8410606-efd5-4a87-a103-5410e6ee5c13/3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
@@ -463,14 +473,6 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (English)",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC TV 18 (504p)" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-logo.png" group-title="Business News (English)",CNBC TV 18 (504p)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ET NOW " tvg-logo="https://img.etimg.com/photo/60956986.cms" group-title="Business News (English)",ET NOW 
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT (550P)" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News (English)",NDTV PROFIT (550P)
-https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1244.DistroTv.in/en/1x1/208x208/test_pic1684936918270.webp" group-title="Business News (English)",Euronews
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/a8410606-efd5-4a87-a103-5410e6ee5c13/3.m3u8
 
 
 
