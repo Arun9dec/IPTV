@@ -104,6 +104,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1248254908_b864000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI GOLD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg" group-title="Punjabi",PTC PUNJABI GOLD 
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w916292819_b864000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTC Chakde" tvg-logo="http://www.ptcnetwork.tv/wp-content/uploads/2016/06/images.png" group-title="Punjabi",PTC Chakde
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTC Dhol" tvg-logo="https://media.ptcplay.com/uploads/channel/A-142x142.png" group-title="Punjabi",PTC Dhol
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTC Music" tvg-logo="https://media.ptcplay.com/uploads/channel/D-144x144.png" group-title="Punjabi",PTC Music
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://th.bing.com/th/id/OIP.83UOsPnJDjdON2JrCvMfuwAAAA?rs=1&pid=ImgDetMain" group-title="Punjabi",Manoranjan Movies
 http://longstream-04.ajaah.com/PlayBoxTV/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X Tashan " tvg-logo="" group-title="Punjabi",9X Tashan 
