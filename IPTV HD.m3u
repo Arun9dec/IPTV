@@ -8,7 +8,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_7
 #EXTINF:-1 tvg-id="" tvg-name="GNT " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News (Hindi)",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABP NEWS " tvg-logo="https://static.abplive.com/wp-content/uploads/2020/12/15170934/ABP_LIVE.jpg" group-title="News (Hindi)",ABP NEWS 
-https://d3njfzse3yrqgm.cloudfront.net/out/v1/4fdb5641e7fb444da44f0c39aa57ed19/index_4.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS " tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS 
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV " tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV 
