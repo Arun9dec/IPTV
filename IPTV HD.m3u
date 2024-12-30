@@ -77,7 +77,7 @@ https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source
 #EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/89121aed-e029-4043-af70-6e92aa5a91d5:SIN2/variant/b747bf7f16eca8387cf3b154486dd818/bandwidth/1128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (504p)
