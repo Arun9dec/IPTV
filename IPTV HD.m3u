@@ -8,7 +8,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_7
 #EXTINF:-1 tvg-id="" tvg-name="GNT " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News (Hindi)",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABP NEWS " tvg-logo="https://static.abplive.com/wp-content/uploads/2020/12/15170934/ABP_LIVE.jpg" group-title="News (Hindi)",ABP NEWS 
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720p.m3u8
+https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/64fd855d-99f1-4d22-95fa-891429a750f7/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS " tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS 
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV " tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV 
