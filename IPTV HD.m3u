@@ -52,7 +52,7 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
-https://youtu.be/OjsE734aXyc
+https://playhls.media.nic.in/live/ddnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/indianews-logo.jpg" group-title="News (Hindi)",INDIA NEWS
 https://youtu.be/lmgy3Fgld5E
 #EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
