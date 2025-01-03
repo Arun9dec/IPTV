@@ -119,6 +119,8 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://windowpunjab.com/wp-content/uploads/elementor/thumbs/Window-Punjab-Final-1-qptresxjgdwxtlpmzyjgpogtzao0yzkefgnn2q3280.png" group-title="Punjabi", Window Punjab TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgqxSAn8NhfipAOIk11a28Lsxp4HmzRbHGQHa1kPxoCeoWgFDm55mJr8ZKYcPHa-1nDYw&usqp=CAU" group-title="Punjabi", Zee Punjabi
+https://live.drmlive-02.workers.dev/zee/zee-punjabi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI " tvg-logo="https://media.ptcpunjabi.co.in/wp-content/uploads/2022/12/ptc-logo.png" group-title="Punjabi",PTC PUNJABI 
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1248254908_b864000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI GOLD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg" group-title="Punjabi",PTC PUNJABI GOLD 
@@ -173,7 +175,7 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nazara" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4592.DistroTv.in/hi/1x1/208x208/test_pic1697701337563.webp" group-title="Entertainment (Hindi)",Nazara
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/nazara/f3f05617-d65b-48dc-91e3-64689c879ea2/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment (Hindi)",Zee Anmol
-https://snehtv.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/zee/zee-anmol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment (Hindi)",Sony Pal
@@ -527,9 +529,11 @@ http://170.254.18.106/CINEMAX/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/comedy-central-16x9-1624419769894-1663699927285.jpg" group-title="Entertainment (English)",Comedy Central HD
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/comedy-central-16x9-1624419769894-1663699927285.jpg" group-title="Entertainment (English)", Comedy Central HD
 https://live.drmlive-02.workers.dev/jc/1157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star World Premier HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKK_1FgxZKzXBmrWDoVR1Xt9UBU9TyFC_64A&usqp=CAU" group-title="Entertainment (English)",Star World Premier HD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="Entertainment (English)", Zee Cafe HD
+https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star World Premier HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKK_1FgxZKzXBmrWDoVR1Xt9UBU9TyFC_64A&usqp=CAU" group-title="Entertainment (English)", Star World Premier HD
 http://195.201.82.32:5001/play/a004
 #EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3WWmtVjazZD8CaHCSp5qR2bTZ5wvC5CraQ&usqp=CAU" group-title="Entertainment (English)",Star World HD
 http://195.201.82.32:5001/play/a002
