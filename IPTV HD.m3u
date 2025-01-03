@@ -154,6 +154,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio
 http://103.120.172.74:4300
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment (Hindi)",Sony HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment (Hindi)",Sony WAH
+https://live.drmlive-02.workers.dev/sliv/wah.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-TV/5eab1433a609d2be14000010/small_16_9.jpg" group-title="Entertainment (Hindi)",SHEMAROO TV 
 https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Umang Plus" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4998.DistroTv.in/hi/1x1/208x208/test_pic1709883348816.webp" group-title="Entertainment (Hindi)",Shemaroo Umang Plus
@@ -177,9 +179,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment (Hindi)",Zee Anmol
 https://live.drmlive-02.workers.dev/zee/zee-anmol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
+https://live.drmlive-02.workers.dev/sliv/sab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment (Hindi)",Sony Pal
-https://snehtv.in1.bitmana.io/live.php?c=Sony_Pal&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/sliv/pal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment (Hindi)",Colors HD
 https://live.drmlive-02.workers.dev/jc/144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment (Hindi)",Colors HD
@@ -225,7 +227,7 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""Zee Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png", group-title="Movies (Hindi)",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies (Hindi)",Sony MAX 2
-http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://live.drmlive-02.workers.dev/sliv/max2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Movies
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="Tata Sky Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU" group-title="Movies (Hindi)",Tata Sky Bollywood
@@ -244,8 +246,10 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies (Hindi)",Zee Action
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Movies (Hindi)",Sony Max
+https://live.drmlive-02.workers.dev/sliv/max.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies (Hindi)",Sony Max HD
-https://snehtv.in1.bitmana.io/live.php?c=Sony_Max_HD&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&Pictures HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies (Hindi)", &Pictures HD
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies (Hindi)", Zee Bollywood
@@ -309,7 +313,7 @@ https://snehtv.in1.bitmana.io/live.php?c=History_18_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet
 https://snehtv.in1.bitmana.io/live.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",Sony BBC Earth HD
-https://snehtv.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/sliv/bbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV Good Times" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Infotainment",NDTV Good Times
 https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment",Travel XP
@@ -350,7 +354,7 @@ https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Jr" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr
 https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yay
-https://snehtv.in1.bitmana.io/live.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/sliv/yay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo=https://qqcdnpictest.mxplay.com/pic/3449.DistroTv.in/en/1x1/208x208/test_pic1684937177328.webp" group-title="Kids",Kids TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/173559ca-f121-46f7-b468-a231b630347b/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hooray Rhymes" tvg-logo=https://qqcdnpictest.mxplay.com/pic/5013.DistroTv.in/en/1x1/208x208/test_pic1710252170632.webp" group-title="Kids",Hooray Rhymes
@@ -437,6 +441,26 @@ https://live.drmlive-02.workers.dev/jc/1998.m3u8
 https://live.drmlive-02.workers.dev/jc/2000.m3u8
 #EXTINF:-1 tvg-id="CricStream" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg" group-title="Sports", CricStream
 https://live.drmlive-02.workers.dev/jc/2001.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", SONY TEN 1
+https://live.drmlive-02.workers.dev/sliv/ten1.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports", SONY TEN 2
+https://live.drmlive-02.workers.dev/sliv/ten2.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", SONY TEN 3
+https://live.drmlive-02.workers.dev/sliv/ten3.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports", SONY TEN 4
+https://live.drmlive-02.workers.dev/sliv/ten4.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", SONY TEN 5
+https://live.drmlive-02.workers.dev/sliv/ten5.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", SONY TEN 1 HD
+https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", SONY TEN 2 HD
+https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", SONY TEN 3 HD
+https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 4 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports", SONY TEN 4 HD
+https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports", SONY TEN 5 HD
+https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 #EXTINF:-1 tvg-id="MU TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png" group-title="Sports", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/6/60/RMTV2019.png" group-title="Sports", Real Madrid TV
@@ -505,7 +529,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Movies (English)",Colors Infinity HD
 https://live.drmlive-02.workers.dev/jc/1158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://www.sonypix.com/images/logo/sonypix-logo.svg" group-title="Movies (English)",Sony Pix
-http://170.254.18.106/STAR/index.m3u8
+https://live.drmlive-02.workers.dev/sliv/pix.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/2880px-%26priv%C3%A9_HD.svg.png" group-title="Movies (English)",&prive HD
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies (English)", &flix HD
