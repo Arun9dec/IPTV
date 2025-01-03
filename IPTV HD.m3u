@@ -1,38 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Aajtak HD" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="News (Hindi)",Aajtak HD
+#EXTINF:-1 tvg-id=""tvg-name="Aajtak HD" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="News (Hindi)",Aajtak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AAJTAK " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News (Hindi)",AAJTAK 
+#EXTINF:-1 tvg-id=""tvg-name="AAJTAK " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News (Hindi)",AAJTAK 
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AAJTAK 2" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resources/at2logo_97x552x.png" group-title="News (Hindi)",GNT 
+#EXTINF:-1 tvg-id=""tvg-name="AAJTAK 2" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resources/at2logo_97x552x.png" group-title="News (Hindi)", AAJTAK 2
 https://playback.akamaized.net/streams/14014394_10551482_lsiowc3e2nma6h63inl_1/media/14014394_10551482_lsiowc3e2nma6h63inl_1@2256000pb.m3u8?dw=80&ts=1735912800&hdnts=exp=1736086743~acl=/streams/14014394_10551482_lsiowc3e2nma6h63inl_1/media*~hmac=cce53ba2bca21bb0490a3b671ef6139750496a69c886d77ff26f08c0131ffe98
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News (Hindi)",GNT 
+#EXTINF:-1 tvg-id=""tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News (Hindi)",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABP NEWS" tvg-logo="https://static.abplive.com/wp-content/uploads/2020/12/15170934/ABP_LIVE.jpg" group-title="News (Hindi)",ABP NEWS 
+#EXTINF:-1 tvg-id=""tvg-name="ABP NEWS" tvg-logo="https://static.abplive.com/wp-content/uploads/2020/12/15170934/ABP_LIVE.jpg" group-title="News (Hindi)",ABP NEWS 
 https://abplive.vgcdn.net/ptnr-yupptv/title-ABP_News_yupp/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1e0dff06-24fb-4d91-9d57-fb6e918834e2/64fd855d-99f1-4d22-95fa-891429a750f7/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS 
+#EXTINF:-1 tvg-id=""tvg-name="ZEE NEWS" tvg-logo="https://english.cdn.zeenews.com/images/logo/zeenewslogo_nav.png" group-title="News (Hindi)",ZEE NEWS 
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Bharat" tvg-logo="https://hindi.cdn.zeenews.com/hindi/sites/all/themes/desktop_main_th/images/zee_bharat_logo.png" group-title="News (Hindi)",ZEE HINDUSTAN 
+#EXTINF:-1 tvg-id=""tvg-name="ZEE Bharat" tvg-logo="https://hindi.cdn.zeenews.com/hindi/sites/all/themes/desktop_main_th/images/zee_bharat_logo.png" group-title="News (Hindi)",ZEE HINDUSTAN 
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE UP/UK" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/upuk.svg" group-title="News (Hindi)",ZEE UP/UK 
+#EXTINF:-1 tvg-id=""tvg-name="ZEE UP/UK" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/upuk.svg" group-title="News (Hindi)",ZEE UP/UK 
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV 
+#EXTINF:-1 tvg-id=""tvg-name="INDIA TV" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV 
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDIA TV Speed-News" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="News (Hindi)",INDIA TV Speed-News
+#EXTINF:-1 tvg-id=""tvg-name="INDIA TV Speed-News" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="News (Hindi)",INDIA TV Speed-News
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="News18 India" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India 
+#EXTINF:-1 tvg-id=""tvg-name="News18 India" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India 
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 18 India UP/UK" tvg-logo="https://static.Hindi.news18.com/ibnkhabar/uploads/assests/img/Hindi-up-uk-for-web.gif" group-title="News (Hindi)",News 18 India UP/UK 
+#EXTINF:-1 tvg-id=""tvg-name="News 18 India UP/UK" tvg-logo="https://static.Hindi.news18.com/ibnkhabar/uploads/assests/img/Hindi-up-uk-for-web.gif" group-title="News (Hindi)",News 18 India UP/UK 
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg" group-title="News (Hindi)",NEWS 24 
+#EXTINF:-1 tvg-id=""tvg-name="NEWS 24" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg" group-title="News (Hindi)",NEWS 24 
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV9 Bharatvarsh" tvg-logo="https://i.imgur.com/GEqUslW.png" group-title="News (Hindi)",TV9 Bharatvarsh 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAV BHARAT " tvg-logo="https://imgk.timesnownews.com/story/1200x900-04.png" group-title="News (Hindi)",TIMES NOW NAV BHARAT 
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/indianews-logo.jpg" group-title="News (Hindi)",INDIA NEWS
-https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sudarshan News" tvg-logo="http://sudarshannews.in/images/logo.jpg" group-title="News (Hindi)",Sudarshan News
+https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 News" tvg-logo="http://mhone.in/wp-content/uploads/2021/12/MH-ONE-LOGO.png" group-title="News (Hindi)",MH1 News
 https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Awaaz India TV" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News (Hindi)",Awaaz India TV
@@ -41,22 +39,24 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://livetv.ibc24.in/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="News (Hindi)",Janta TV
 https://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sudarshan News" tvg-logo="http://sudarshannews.in/images/logo.jpg" group-title="News (Hindi)",Sudarshan News
-https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bharat24" tvg-logo="https://bharat24live.com/_next/image?url=%2Flogo.png&w=1080&q=75" group-title="News (Hindi)",Bharat24 (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Bharat24" tvg-logo="https://bharat24live.com/_next/image?url=%2Flogo.png&w=1080&q=75" group-title="News (Hindi)",Bharat24 
 https://legitpro.co.in/bharat24live/bharat24live/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BharatSamacharTV" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News (Hindi)",BharatSamacharTV (360p)
+#EXTINF:-1 tvg-id="" tvg-name="Bharat Samachar TV" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News (Hindi)",Bharat Samachar TV
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Rajyasabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Rajyasabha)
-https://hls.media.nic.in/live/rstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Loksabha)
-https://hls.media.nic.in/live/lstv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat (720)" tvg-logo="https://img.republicworld.com/logo/hindi/republic-logo-bharat.svg" group-title="News (Hindi)",Republic Bharat 
-https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/38617f2a-ee69-478a-aaad-5d141be51cd2/2.m3u8
+https://playhls.media.nic.in/live/lstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Rajyasabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Rajyasabha)
+https://playhls.media.nic.in/live/rstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://img.republicworld.com/logo/hindi/republic-logo-bharat.svg" group-title="News (Hindi)",Republic Bharat 
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/35df7616-ba08-48c8-9e9f-4df8862be2a9/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
-https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_india_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
 https://youtu.be/OjsE734aXyc
+#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/indianews-logo.jpg" group-title="News (Hindi)",INDIA NEWS
+https://youtu.be/lmgy3Fgld5E
+#EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
+https://youtu.be/cEjuoCwX9jU
 
 
 
