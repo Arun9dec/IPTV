@@ -1,11 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
-https://youtu.be/OjsE734aXyc
 #EXTINF:-1 tvg-id="" tvg-name="Aajtak HD" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="News (Hindi)",Aajtak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AAJTAK " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News (Hindi)",AAJTAK 
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AAJTAK 2" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resources/at2logo_97x552x.png" group-title="News (Hindi)",GNT 
+https://playback.akamaized.net/streams/14014394_10551482_lsiowc3e2nma6h63inl_1/media/14014394_10551482_lsiowc3e2nma6h63inl_1@2256000pb.m3u8?dw=80&ts=1735912800&hdnts=exp=1736086743~acl=/streams/14014394_10551482_lsiowc3e2nma6h63inl_1/media*~hmac=cce53ba2bca21bb0490a3b671ef6139750496a69c886d77ff26f08c0131ffe98
 #EXTINF:-1 tvg-id="" tvg-name="GNT " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png" group-title="News (Hindi)",GNT 
 https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABP NEWS " tvg-logo="https://static.abplive.com/wp-content/uploads/2020/12/15170934/ABP_LIVE.jpg" group-title="News (Hindi)",ABP NEWS 
@@ -52,6 +51,8 @@ https://hls.media.nic.in/live/lstv/index.m3u8
 https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/38617f2a-ee69-478a-aaad-5d141be51cd2/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_india_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
+https://youtu.be/OjsE734aXyc
 
 
 
