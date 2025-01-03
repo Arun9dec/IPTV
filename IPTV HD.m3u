@@ -77,6 +77,8 @@ https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Music (Hindi)",MTV HD
 https://live.drmlive-02.workers.dev/jc/1145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg" group-title="Music (Hindi)",MTV Beats HD
+https://live.drmlive-02.workers.dev/jc/753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
@@ -332,7 +334,7 @@ https://snehtv.in1.bitmana.io/live.php?c=Nick_Hindi&q=250&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sonic Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="Kids",Sonic Nickelodeon
 https://test-tan-iota-90.vercel.app/live/bdix/app/NickHindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior
-https://snehtv.in1.bitmana.io/live.php?c=Nick_Junior&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/jc/544.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nickelodeon
 https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Jr" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr
