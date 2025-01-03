@@ -75,7 +75,9 @@ https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="9XM (504p)" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM (504p)
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Music (Hindi)",MTV HD
+https://live.drmlive-02.workers.dev/jc/1145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
 https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/89121aed-e029-4043-af70-6e92aa5a91d5:SIN2/variant/b747bf7f16eca8387cf3b154486dd818/bandwidth/1128000.m3u8
@@ -171,11 +173,11 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment (Hindi)",Sony Pal
 https://snehtv.in1.bitmana.io/live.php?c=Sony_Pal&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment (Hindi)",Colors HD
-http://103.120.172.74:1070
+https://live.drmlive-02.workers.dev/jc/144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment (Hindi)",Colors HD
 https://www.bdtubelive.xyz/new.m3u8?id=109
 #EXTINF:-1 tvg-id="" tvg-name="Colors Rishtey" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment (Hindi)",Colors Rishtey
-https://snehtv.in1.bitmana.io/live.php?c=Rishtey&q=800&e=.m3u8
+https://live.drmlive-02.workers.dev/jc/1370.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE Q " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/The-Q/5fd3871ea609d2b6de000002/small_16_9.jpg" group-title="Entertainment (Hindi)",THE Q 
 https://cdn.live.shemaroome.com/qyoutv/selqyoutv/chunklist_w1409001133.m3u8?hdnts=st%3D1641041449%7Eexp%3D1641052249%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D4e62b23c4edca590b172d2821ad673de3271ac61bbfb3241fa304c34f8dfe75f
 #EXTINF:-1 tvg-id="" tvg-name="DD RETRO " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/DD_Retro.png/220px-DD_Retro.png" group-title="Entertainment (Hindi)",DD RETRO 
@@ -195,6 +197,12 @@ https://m-c049-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index_dvr.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpgp" group-title="Movies (Hindi)",Colors Cineplex HD
+https://live.drmlive-02.workers.dev/jc/1477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex Superhit" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg" group-title="Movies (Hindi)",Colors Cineplex Superhit
+https://live.drmlive-02.workers.dev/jc/1450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg" group-title="Movies (Hindi)",Colors Cineplex Bollywood
+https://live.drmlive-02.workers.dev/jc/1763.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood Desi" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5012.DistroTv.in/hi/1x1/208x208/test_pic1710252142411.webp" group-title="Movies (Hindi)",Hollywood Desi
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/024f691c-14f6-4c6f-8669-9c46e97473c4/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg" group-title="Movies (Hindi)",Shemaroo Bollywood
@@ -471,6 +479,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Movies (English)",Colors Infinity HD
+https://live.drmlive-02.workers.dev/jc/1158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://www.sonypix.com/images/logo/sonypix-logo.svg" group-title="Movies (English)",Sony Pix
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Star_Channel_2023.svg" group-title="Movies (English)",Star Channel
@@ -492,6 +502,8 @@ http://170.254.18.106/CINEMAX/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/comedy-central-16x9-1624419769894-1663699927285.jpg" group-title="Entertainment (English)",Comedy Central HD
+https://live.drmlive-02.workers.dev/jc/1157.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star World Premier HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKK_1FgxZKzXBmrWDoVR1Xt9UBU9TyFC_64A&usqp=CAU" group-title="Entertainment (English)",Star World Premier HD
 http://195.201.82.32:5001/play/a004
 #EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3WWmtVjazZD8CaHCSp5qR2bTZ5wvC5CraQ&usqp=CAU" group-title="Entertainment (English)",Star World HD
