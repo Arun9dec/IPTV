@@ -162,6 +162,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://www.bdtubelive.xyz/new.m3u8?id=119
 #EXTINF:-1 tvg-id="" tvg-name="Utsav Plus HD" tag-logo="https://en.wikipedia.org/wiki/Utsav_Plus#/media/File:Utsav_Plus_Logo.jpg" group-title="Entertainment (Hindi)",Utsav Plus HD
 https://www.bdtubelive.xyz/new.m3u8?id=105
+#EXTINF:-1 tvg-id="" tvg-name="Big Magic" tag-logo="https://upload.wikimedia.org/wikipedia/hi/thumb/f/f6/Bigmagic.jpeg/300px-Bigmagic.jpeg" group-title="Entertainment (Hindi)", Big Magic
+https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment (Hindi)", &TV HD
 https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment (Hindi)", Zee TV HD
@@ -500,6 +502,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://live.drmlive-02.workers.dev/jc/1158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://www.sonypix.com/images/logo/sonypix-logo.svg" group-title="Movies (English)",Sony Pix
 http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/2880px-%26priv%C3%A9_HD.svg.png" group-title="Movies (English)",&prive HD
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="Movies (English)", &flix HD
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Star_Channel_2023.svg" group-title="Movies (English)",Star Channel
@@ -530,6 +534,8 @@ http://195.201.82.32:5001/play/a002
 
 
 
+#EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Lifestyle", Zee Zest HD
+https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle", FTV
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://cdn-ilaijbf.nitrocdn.com/YzeYmKigJpOUmEDUPOsqjcZLGXECGjCN/assets/images/optimized/rev-b218c91/www.foodfood.com/wp-content/uploads/2024/04/header-logo.png" group-title="Lifestyle", FOOD FOOD
