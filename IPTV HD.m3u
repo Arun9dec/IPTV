@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
-https://hls.media.nic.in/live/ddnews/index.m3u8
+https://youtu.be/OjsE734aXyc
 #EXTINF:-1 tvg-id="" tvg-name="Aajtak HD" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="News (Hindi)",Aajtak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AAJTAK " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News (Hindi)",AAJTAK 
