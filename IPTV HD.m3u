@@ -53,11 +53,10 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
 https://playhls.media.nic.in/live/ddnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
+https://janya-newsnation.vgcdn.net/ptnr-yupptv/title-NewsNation/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22ee70b6-57e0-4e80-8e18-4737adf55e8a/bbd0024b-924b-4631-aebf-155606e256cb/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://karthavya.com/wp-content/uploads/2019/06/indianews-logo.jpg" group-title="News (Hindi)",INDIA NEWS
 https://youtu.be/lmgy3Fgld5E
-#EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
-https://youtu.be/cEjuoCwX9jU
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News",CNBC AWAAZ (504p)
