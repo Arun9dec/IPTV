@@ -79,14 +79,14 @@ https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg" group-title="Music (Hindi)",MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music (Hindi)",MTV HD
 https://live.drmlive-02.workers.dev/jc/1145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg" group-title="Music (Hindi)",MTV Beats HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music (Hindi)",MTV Beats HD
 https://live.drmlive-02.workers.dev/jc/753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/ef8bc969-459a-4b57-8486-c66f458077c3/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
-https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/89121aed-e029-4043-af70-6e92aa5a91d5:SIN2/variant/b747bf7f16eca8387cf3b154486dd818/bandwidth/1128000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (504p)
@@ -239,7 +239,7 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&exten
 #EXTINF:-1 tvg-id="" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies (Hindi)",BBO
 https://ssailive.vgcdn.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/7e94fd12-e2b2-41e2-81cf-6cedb5bacd01/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Movie Club" tvg-logo="https://static3.tgstat.ru/channels/_0/d7/d768c61d3236323d99c10cfe6214dbb7.jpg" group-title="Movies (Hindi)",The Movie Club
-https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Zc1QSGXq0YI07WqFtr05KeQMaZnLRwsTIbfChBmBN0Y5FeZES1GFsk&s=10" group-title="Movies (Hindi)",Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbW2lo5Bk2gxkv8PGROQQvjMPzXW-DeCum6LGUARbr2BzGLsoBaUNUUI&s=10" group-title="Movies (Hindi)",Star Gold Select HD
