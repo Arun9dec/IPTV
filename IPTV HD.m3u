@@ -59,20 +59,20 @@ https://janya-newsnation.vgcdn.net/ptnr-yupptv/title-NewsNation/v1/manifest/611d
 https://youtu.be/lmgy3Fgld5E
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ (504p)" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News",CNBC AWAAZ (504p)
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=1272000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS " tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News",ZEE BUSINESS 
-https://dwby15d04agvq.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH " tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News",ET NOW SWADESH 
+#EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News",CNBC AWAAZ (504p)
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News",ZEE BUSINESS 
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH" tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News",ET NOW SWADESH 
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Business Today " tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/logo/bttv-new-logo.png" group-title="Business News",Business Today 
+#EXTINF:-1 tvg-id="" tvg-name="Business Today" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/logo/bttv-new-logo.png" group-title="Business News",Business Today 
 https://bttvlive-amd.akamaized.net/hls/live/2096488-b/live/bttv/bttv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC TV 18" tvg-logo="https://www.cnbctv18.com/static/images/cnbc-logo.png" group-title="Business News",CNBC TV 18 
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2336400.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW " tvg-logo="https://img.etimg.com/photo/60956986.cms" group-title="Business News",ET NOW 
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT" tvg-logo="https://cdn.ndtv.com/static/images/profit/profit_logo2017.png" group-title="Business News",NDTV PROFIT
-https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://w7.pngwing.com/pngs/657/861/png-transparent-bloomberg-terminal-business-bloomberg-government-organization-business-text-people-logo.png" group-title="Business News",Bloomberg
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
 
