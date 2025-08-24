@@ -56,7 +56,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News",CNBC AWAAZ (504p)
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News",ZEE BUSINESS 
@@ -142,7 +141,9 @@ https://snehtv.in1.bitmana.io/live.php?c=Enterr_10&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Movies (Hindi)",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2172.ManoranjanMovies.in/en/1x1/208x208/test_pic1535537678437.jpg" group-title="Movies (Hindi)",Manoranjan Movies
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+https://cdn-2.pishow.tv/live/228/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Grand" tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Movies (Hindi)",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movie Plus" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6521.Movieplus.in/en/1x1/208x208/test_pic1559821113768.jpg" group-title="Movies (Hindi)",Movie Plus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOW Cinema One" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2940.WOWCinemaOne.in/en/1x1/208x208/test_pic1554127110901.JPG" group-title="Movies (Hindi)",WOW Cinema One
@@ -172,7 +173,7 @@ https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E24 " tvg-logo="https://e24bollywood.com/wp-content/themes/news24theme/assets/images/logo.png" group-title="Music (Hindi)",E24 
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music (Hindi)",MUSIC INDIA 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
+https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://yt3.googleusercontent.com/dKBpjdqRkmSJqqLUybd9iygGh1iyZgqEkqVDaYaFvrs0ZO93bbVq00L4TQH2XabJYOq1Igp1QA=s176-c-k-c0x00ffffff-no-rj" group-title="Music (Hindi)",Shemaroo Filmigaane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YRF-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",YRF-Music 
@@ -235,6 +236,10 @@ https://cdn-1.pishow.tv/live/36/master.m3u8
 https://cdn-1.pishow.tv/live/17/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Urdu " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="Entertainment (Hindi)",DD Urdu
 https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ishara TV " tvg-logo="https://i.imgur.com/W5YlC2v.png" group-title="Entertainment (Hindi)", Ishara TV
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan TV " tvg-logo="https://i.imgur.com/YvAAgPo.png" group-title="Entertainment (Hindi)", Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (Hindi)",Star Plus HD
 http://103.120.172.74:4300
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment (Hindi)",Sony HD
@@ -260,7 +265,7 @@ https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&Xplor HD" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" group-title="Entertainment (Hindi)", &Xplor HD
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nazara" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4592.DistroTv.in/hi/1x1/208x208/test_pic1697701337563.webp" group-title="Entertainment (Hindi)",Nazara
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/nazara/f3f05617-d65b-48dc-91e3-64689c879ea2/1.m3u8
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment (Hindi)",Zee Anmol
 https://live.drmlive-02.workers.dev/zee/zee-anmol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment (Hindi)",Sony SAB HD
@@ -335,7 +340,7 @@ https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment",Travel XP
 https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/3b93becb-6bf0-4f25-8df8-1180e655f1b7/1.m3u8
+https://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Infotainment", CGTN Documentary
@@ -343,6 +348,10 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Gubbare" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior
+http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
@@ -366,7 +375,7 @@ https://live.drmlive-02.workers.dev/jc/1227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sonic Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="Kids",Sonic Nickelodeon
 https://live.drmlive-02.workers.dev/jc/815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior
-https://live.drmlive-02.workers.dev/jc/544.m3u8
+http://116.90.120.149:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nickelodeon
 https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Jr" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr
@@ -452,6 +461,8 @@ https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in_480p/index.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Arihant_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Darshan 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional (Hindi)",Darshan 24
 https://snehtv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jinvani Channel" tvg-logo="https://i.imgur.com/lztyGVi.png" group-title="Devotional (Hindi)", Jinvani Channel
+https://cdn-2.pishow.tv/live/989/master.m3u8
 
 
 
@@ -556,6 +567,9 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Hi Dost!" tvg-logo="https://i.imgur.com/bnST6y5.png" group-title="Movies (English)",Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Movies (English)",Colors Infinity HD
 https://live.drmlive-02.workers.dev/jc/1158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://www.sonypix.com/images/logo/sonypix-logo.svg" group-title="Movies (English)",Sony Pix
@@ -609,11 +623,15 @@ https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dabangg" tag-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Dabangg.png" group-title="Bhojpuri",Dabangg
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filamchi" tag-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Bhojpuri",Filamchi
-https://epiconvh.s.llnwi.net/live/filamchi/master_1024.m3u8
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Bhojpuri" tag-logo="https://i.imgur.com/NwOQUDp.png" group-title="Bhojpuri",B4U Bhojpuri
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BhojpuriCinema" tag-logo="https://i.imgur.com/ABxIO7r.jpg" group-title="Bhojpuri",BhojpuriCinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BhojpuriCinema" tag-logo="https://i.imgur.com/ABxIO7r.jpg" group-title="Bhojpuri",BhojpuriCinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
+https://cdn-4.pishow.tv/live/233/master.m3u8
 
 
 
