@@ -117,6 +117,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Movies
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tata Sky Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLepDoywQ37t1QxojYcoP62XM6Hf8faxqTPQ&usqp=CAU" group-title="Movies (Hindi)",Tata Sky Bollywood
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:A2:C2:86&stream=156028&extension=m3u8&play_token=EjRbwmymO9
 #EXTINF:-1 tvg-id="" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies (Hindi)",BBO
@@ -130,9 +132,9 @@ https://snehtv.in1.bitmana.io/live.php?c=Rishtey_Cineplex&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filmy" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0079.Filmy.in/en/1x1/208x208/test_pic1535463753952.jpg" group-title="Movies (Hindi)",Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Dhakad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Abzy-dhakad.png" group-title="Movies (Hindi)",ABZY Dhakad
-https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in_480p/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Movies" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png" group-title="Movies (Hindi)",ABZY Movies
-https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFlix Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5045.BFlixMovies.in/en/1x1/208x208/test_pic1536151119917.jpg" group-title="Movies (Hindi)",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Enterr 10" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Movies (Hindi)",Enterr 10
@@ -149,6 +151,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.b4umusic.in/images/logo.png" group-title="Music (Hindi)",B4U Music
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/7ce2d513-35dc-4a5d-8a66-e1ce53207830/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music (Hindi)",MTV HD
 https://live.drmlive-02.workers.dev/jc/1145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music (Hindi)",MTV Beats HD
@@ -362,6 +366,10 @@ https://live.drmlive-02.workers.dev/sliv/yay.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/173559ca-f121-46f7-b468-a231b630347b/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hooray Rhymes" tvg-logo=https://qqcdnpictest.mxplay.com/pic/5013.DistroTv.in/en/1x1/208x208/test_pic1710252170632.webp" group-title="Kids",Hooray Rhymes
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/3b756be5-6138-4b4b-8f7b-a5c12fc866fb/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
+
 
 
 
@@ -583,5 +591,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filamchi" tag-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Bhojpuri",Filamchi
 https://epiconvh.s.llnwi.net/live/filamchi/master_1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Bhojpuri" tag-logo="https://i.imgur.com/NwOQUDp.png" group-title="Bhojpuri",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 
 
