@@ -243,7 +243,7 @@ https://www.bdtubelive.xyz/new.m3u8?id=105
 #EXTINF:-1 tvg-id="" tvg-name="Big Magic" tag-logo="https://upload.wikimedia.org/wikipedia/hi/thumb/f/f6/Bigmagic.jpeg/300px-Bigmagic.jpeg" group-title="Entertainment (Hindi)", Big Magic
 https://live.drmlive-02.workers.dev/zee/big-magic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment (Hindi)", &TV HD
-https://live.drmlive-02.workers.dev/zee/and-tv-hd.m3u8
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment (Hindi)", Zee TV HD
 https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&Xplor HD" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" group-title="Entertainment (Hindi)", &Xplor HD
@@ -583,4 +583,5 @@ https://cdn1-freeiptv25.vercel.app/m3u/DMAX.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filamchi" tag-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg" group-title="Bhojpuri",Filamchi
 https://epiconvh.s.llnwi.net/live/filamchi/master_1024.m3u8
+
 
