@@ -228,8 +228,13 @@ https://stream.e2is.in/hls/livestream.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Ddnational.png" group-title="Entertainment (Hindi)",DD NATIONAL 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational/default/ddnational-audio_208482_und=208000-video=1087600.m3u8
-###https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Uttar Pradesh " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="Entertainment (Hindi)",DD Uttar Pradesh
+https://cdn-1.pishow.tv/live/36/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Uttarakhand " tvg-logo="https://i.imgur.com/GzBsbos.png" group-title="Entertainment (Hindi)",DD Uttarakhand
+https://cdn-1.pishow.tv/live/17/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Urdu " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="Entertainment (Hindi)",DD Urdu
+https://cdn-4.pishow.tv/live/8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment (Hindi)",Star Plus HD
 http://103.120.172.74:4300
 #EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment (Hindi)",Sony HD
@@ -332,7 +337,7 @@ https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/3b93becb-6bf0-4f25-8df8-1180e655f1b7/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
-https://m-c048-j2apps.s.llnwi.net/hls/2914.DDKisan.in_480p/index.m3u8
+https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Infotainment", CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
@@ -450,6 +455,8 @@ https://snehtv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=.m3u8
 
 
 
+#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports", DD SPORTS
+https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="SPORTS 18 HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg" group-title="Sports", SPORTS 18 HD
 https://live.drmlive-02.workers.dev/jc/122.m3u8
 #EXTINF:-1 tvg-id="SPORTS 18 Khel" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg" group-title="Sports", SPORTS 18 Khel
@@ -607,6 +614,7 @@ https://epiconvh.s.llnwi.net/live/filamchi/master_1024.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BhojpuriCinema" tag-logo="https://i.imgur.com/ABxIO7r.jpg" group-title="Bhojpuri",BhojpuriCinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
 
 
 
