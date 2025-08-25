@@ -103,19 +103,13 @@ https://cdn-4.pishow.tv/live/229/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.b4umusic.in/images/logo.png" group-title="Music (Hindi)",B4U Music
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music (Hindi)",MTV HD
-https://live.drmlive-02.workers.dev/jc/1145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music (Hindi)",MTV Beats HD
-https://live.drmlive-02.workers.dev/jc/753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music (Hindi)",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/8c498374-46d9-4db7-827f-42ebf0d1a728/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="Music (Hindi)",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/59c814f8-9fbe-4859-a5be-844b2c18a6ac/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="http://www.mastiii.com/wp-content/themes/mugs/images/mobile-logo.png" group-title="Music (Hindi)",MASTII (504p)
+#EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music (Hindi)",MASTII (504p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Showbox " tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music (Hindi)",Showbox 
 https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
@@ -123,14 +117,15 @@ https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music (Hindi)",MUSIC INDIA 
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://yt3.googleusercontent.com/dKBpjdqRkmSJqqLUybd9iygGh1iyZgqEkqVDaYaFvrs0ZO93bbVq00L4TQH2XabJYOq1Igp1QA=s176-c-k-c0x00ffffff-no-rj" group-title="Music (Hindi)",Shemaroo Filmigaane
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.b4umusic.in/images/logo.png" group-title="Music (Hindi)",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music (Hindi)",Shemaroo Filmigaane
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YRF-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",YRF-Music 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Joo Music" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="Music (Hindi)",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Only Music" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2952.DistroTv.in/en/1x1/208x208/test_pic1688061731041.jpg" group-title="Music (Hindi)",Only Music 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/606ba47c-475a-44a5-9ea2-bda8f9d0376d/0.m3u8
+
 
 
 
@@ -582,6 +577,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
+
 
 
 
