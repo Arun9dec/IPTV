@@ -33,12 +33,10 @@ https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u
 https://mhonenews.in/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Awaaz India TV" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News (Hindi)",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IBC24" tvg-logo="https://www.ibc24.in/wp-content/themes/ibc24/images/ibc24-6-bitmap-copy-41@2x.png" group-title="News (Hindi)",IBC24
-https://livetv.ibc24.in/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="News (Hindi)",Janta TV
 https://live.jswk.online/IK_RTPM/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bharat24" tvg-logo="https://bharat24live.com/_next/image?url=%2Flogo.png&w=1080&q=75" group-title="News (Hindi)",Bharat24 
-https://legitpro.co.in/bharat24live/bharat24live/tracks-v3a1/mono.m3u8
+https://cdn.ottlive.co.in/bharat24/tracks-v2/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bharat Samachar TV" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News (Hindi)",Bharat Samachar TV
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Loksabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Loksabha)
@@ -52,7 +50,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
 https://playhls.media.nic.in/live/ddnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://static.newsnationtv.com/nntv-web/images/banner/newsnation-og-image-default.jpg" group-title="News (Hindi)",News Nation
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/fa644f2d-4636-4dd1-bd96-04669b7c4fad/1.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/3373cf0c-f92e-4515-85df-028c209311ef/1.m3u8
 
 
 
@@ -635,6 +633,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
+
 
 
 
