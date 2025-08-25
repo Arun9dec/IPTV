@@ -187,51 +187,14 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chumbak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/7/77/Chumbak-TV.png" group-title="Entertainment (Hindi)", Chumbak TV
 https://cdn-1.pishow.tv/live/1451/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABZY Cool" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Cool-200x90.png" group-title="Entertainment (Hindi)",ABZY Cool
-https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NASA Tv" tvg-logo="https://www.nasa.gov/wp-content/themes/nasa/assets/images/livestream-poster.png" group-title="Infotainment",NASA Tv
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wild Earth" tvg-logo="https://149772863.v2.pressablecdn.com/wp-content/uploads/2021/12/WildEarth-logo-white_esm2.png" group-title="Infotainment",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Infotainment",Love nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment",TLC
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-https://cdn1-freeiptv25.vercel.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment",Travel 4K
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment",Discovery
-https://cdn1-freeiptv25.vercel.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science
-https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
-https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://test-tan-iota-90.vercel.app/images/investigation_discovery.jpg" group-title="Infotainment",Investigation Discovery
-https://cdn1-freeiptv25.vercel.app/m3u/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRVL Channel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/aa/75/44aa75ef-34bc-2221-8b3f-6270bd39750d/AppIcon-TRAV-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png" group-title="Infotainment",TRVL Channel
-https://cdn1-freeiptv25.vercel.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxUoN_D20sbVc40M-l_6V413cByn4c1eOefA&usqp=CAU" group-title="Infotainment",HGTV
-https://cdn1-freeiptv25.vercel.app/m3u/HGTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctbIIxqAJ8INZn8YGhXM4xBoQ8X3V7O8rMg&usqp=CAU" group-title="Infotainment",Food Network
-https://cdn1-freeiptv25.vercel.app/m3u/Food Network.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TED" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3305.DistroTv.in/en/1x1/208x208/test_pic1684937638965.webp" group-title="Infotainment",TED
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/004fecf1-a761-42df-adaa-237c6623a52e/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History TV 18" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV 18
-https://snehtv.in1.bitmana.io/live.php?c=History_18_Hindi&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet
-https://snehtv.in1.bitmana.io/live.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",Sony BBC Earth HD
-https://live.drmlive-02.workers.dev/sliv/bbc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NDTV Good Times" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="Infotainment",NDTV Good Times
-https://snehtv.in1.bitmana.io/live.php?c=NDTV_Good_Times&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment",Travel XP
-https://snehtv.in1.bitmana.io/live.php?c=Travel_XP&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
@@ -243,10 +206,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gubbare" tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Junior
-http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon Network
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids TV (US)" tvg-logo="https://cdn.vectorstock.com/i/1000v/35/76/kids-tv-channel-logo-design-vector-42983576.jpg" group-title="Kids",Kids TV (US)
@@ -257,28 +216,8 @@ http://iptv.prosto.tv:7000/ch208/video.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo Tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w" group-title="Kids",ZooMoo Tv
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery Kids
-https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maha Cartoon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Cartoon.png" group-title="Kids",Maha Cartoon
-https://snehtv.in1.bitmana.io/live.php?c=Maha_Cartoon&q=250&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD+" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg" group-title="Kids",Nick HD+
-https://live.drmlive-02.workers.dev/jc/1226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick SD" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1719554242246.jpg" group-title="Kids",Nick SD
-https://live.drmlive-02.workers.dev/jc/1227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sonic Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="Kids",Sonic Nickelodeon
-https://live.drmlive-02.workers.dev/jc/815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids",Nick Junior
 http://116.90.120.149:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Kids",Nickelodeon
-https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Jr" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids",Nickelodeon Jr
-https://snehtv.in1.bitmana.io/live.php?c=Nickelodeon_Jr&q=250&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Yay" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yay
-https://live.drmlive-02.workers.dev/sliv/yay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo=https://qqcdnpictest.mxplay.com/pic/3449.DistroTv.in/en/1x1/208x208/test_pic1684937177328.webp" group-title="Kids",Kids TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/173559ca-f121-46f7-b468-a231b630347b/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hooray Rhymes" tvg-logo=https://qqcdnpictest.mxplay.com/pic/5013.DistroTv.in/en/1x1/208x208/test_pic1710252170632.webp" group-title="Kids",Hooray Rhymes
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/3b756be5-6138-4b4b-8f7b-a5c12fc866fb/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
@@ -286,18 +225,10 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Deluxe Music" tvg-logo="https://www.livehdtv.com/uploads/kanal/20553deluxe%20music%20logo.png" group-title="Music (English)",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6691e0d843fd6_13018905_2407130205_2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="A Music" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/A-Music.jpg" group-title="Music (English)",A Music
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss Tv" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Kiss-TV.jpg" group-title="Music (English)",Kiss Tv
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE Urban" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3243.DistroTv.in/en/1x1/208x208/test_pic1690453758770.webp" group-title="Music (English)",TRACE Urban
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/878ffec2-e3d9-4210-8c02-d676b19769e7/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE Latina" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3242.DistroTv.in/es/1x1/208x208/test_pic1690453792828.webp" group-title="Music (English)",TRACE Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/6ea037b0-62cb-4281-ad92-261b10bf3e91/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE Brasil" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3307.DistroTv.in/en/1x1/208x208/test_pic1690454503261.webp" group-title="Music (English)",Brasil
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/d8d977a0-afee-4cea-963e-2725ec3748a0/1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna
@@ -523,6 +454,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
+
 
 
 
