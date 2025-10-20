@@ -81,6 +81,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg" group-title="Movies (Hindi)",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo JOSH" tvg-logo="https://shemarooent.com/assets/images/josh/shemaroo-josh-logo.png" group-title="Movies (Hindi)",Shemaroo JOSH
+https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1760929091%7Eexp%3D1760939891%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dd58d0e585a17927545ba0903d602b6f66217b25942b59da039449e05a87e3cab
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg" group-title="Movies (Hindi)",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood Desi" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5012.DistroTv.in/hi/1x1/208x208/test_pic1710252142411.webp" group-title="Movies (Hindi)",Hollywood Desi
@@ -454,6 +456,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
+
 
 
 
