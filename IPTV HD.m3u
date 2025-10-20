@@ -104,7 +104,7 @@ https://cdn-4.pishow.tv/live/229/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="Music (Hindi)",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/59c814f8-9fbe-4859-a5be-844b2c18a6ac/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/29ee8106-1e0a-4165-aad4-89a798c6ac62/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
@@ -454,6 +454,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
+
 
 
 
