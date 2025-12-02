@@ -459,6 +459,14 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 
 
 
+#Adult_TV
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Europe" tag-logo="https://hochu.tv/images/brazzers_tv_europe.png" group-title="Adult", Brazzers TV Europe
+https://tv.tvcdnpotok.com/NX5aYEXodhk_a4blzNFpzQ/46/1764707069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O-la-la" tag-logo="https://hochu.tv/images/o-la-la.png" group-title="Adult", O-la-la
+https://tv.tvcdnpotok.com/qmXHLgXESF8lU09gPReESQ/17/1764707203/index.m3u8
+
+
+
 
 
 
