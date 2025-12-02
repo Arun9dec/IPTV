@@ -1,5 +1,4 @@
-
-#Adult_TV
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Europe" tag-logo="https://hochu.tv/images/brazzers_tv_europe.png" group-title="Adult", Brazzers TV Europe
 https://tv.tvcdnpotok.com/NX5aYEXodhk_a4blzNFpzQ/46/1764707069/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O-la-la" tag-logo="https://hochu.tv/images/o-la-la.png" group-title="Adult", O-la-la
@@ -80,7 +79,3 @@ https://tv.tvcdnpotok.com/BMj7tLLEnoCM-wiPvuRuHg/40/1764710029/index.m3u8
 https://tv.tvcdnpotok.com/9YJ2WyS5Zi7eOa6byeeg9Q/59/1764710074/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CineMan XXX2" tag-logo="https://hochu.tv/images/cineman-xxx2.png" group-title="Adult", CineMan XXX2
 https://tv.tvcdnpotok.com/9YJ2WyS5Zi7eOa6byeeg9Q/59/1764710074/index.m3u8
-
-
-
-
