@@ -18,7 +18,7 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1 tvg-id=""tvg-name="INDIA TV Speed-News" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="News (Hindi)",INDIA TV Speed-News
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="News18 India" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India 
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="News 18 India UP/UK" tvg-logo="https://static.Hindi.news18.com/ibnkhabar/uploads/assests/img/Hindi-up-uk-for-web.gif" group-title="News (Hindi)",News 18 India UP/UK 
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="NEWS 24" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg" group-title="News (Hindi)",NEWS 24 
@@ -30,7 +30,7 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_720p/chunks.
 #EXTINF:-1 tvg-id="" tvg-name="Sudarshan News" tvg-logo="http://sudarshannews.in/images/logo.jpg" group-title="News (Hindi)",Sudarshan News
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 News" tvg-logo="https://mhone.in/uploads/logo/logo_6657fd2fafbc20-72263395.png" group-title="News (Hindi)",MH1 News
-https://livestream.jswk.online/mhonenews/live/l_836534_56172023_9362.ts
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Awaaz India TV" tvg-logo="https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png" group-title="News (Hindi)",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bharat Samachar TV" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News (Hindi)",Bharat Samachar TV
@@ -72,23 +72,21 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/03/Bollywood-HD.jpg" group-title="Movies (Hindi)",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Bollywood HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg" group-title="Movies (Hindi)",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo JOSH" tvg-logo="https://shemarooent.com/assets/images/josh/shemaroo-josh-logo.png" group-title="Movies (Hindi)",Shemaroo JOSH
-https://cdn.live.shemaroome.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8?hdnts=st%3D1760929091%7Eexp%3D1760939891%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dd58d0e585a17927545ba0903d602b6f66217b25942b59da039449e05a87e3cab
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/Bollywood-Classic.jpg" group-title="Movies (Hindi)",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood Desi" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5012.DistroTv.in/hi/1x1/208x208/test_pic1710252142411.webp" group-title="Movies (Hindi)",Hollywood Desi
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/024f691c-14f6-4c6f-8669-9c46e97473c4/1.m3u8
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Dhakad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Abzy-dhakad.png" group-title="Movies (Hindi)",ABZY Dhakad
-https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Movies" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png" group-title="Movies (Hindi)",ABZY Movies
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+http://57.129.53.130:21001/ABZY_Movies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2172.ManoranjanMovies.in/en/1x1/208x208/test_pic1535537678437.jpg" group-title="Movies (Hindi)",Manoranjan Movies
 https://cdn-2.pishow.tv/live/228/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan Grand" tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Movies (Hindi)",Manoranjan Grand
