@@ -131,8 +131,6 @@ https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pitaara TV " tvg-logo="https://qqcdnpictest.mxplay.com/pic/3132.DistroTv.in/en/1x1/208x208/test_pic1684937427901.webp" group-title="Punjabi",Pitaara TV
 https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://windowpunjab.com/wp-content/uploads/elementor/thumbs/Window-Punjab-Final-1-qptresxjgdwxtlpmzyjgpogtzao0yzkefgnn2q3280.png" group-title="Punjabi", Window Punjab TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI " tvg-logo="https://media.ptcpunjabi.co.in/wp-content/uploads/2022/12/ptc-logo.png" group-title="Punjabi",PTC PUNJABI 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI GOLD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Ptc_Punjabi_Gold.jpeg" group-title="Punjabi",PTC PUNJABI GOLD 
@@ -145,6 +143,8 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Punjabi Hits Music " tvg-logo="https://i.imgur.com/i9xE87K.png" group-title="Punjabi",Punjabi Hits
 https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://windowpunjab.com/wp-content/uploads/elementor/thumbs/Window-Punjab-Final-1-qptresxjgdwxtlpmzyjgpogtzao0yzkefgnn2q3280.png" group-title="Punjabi", Window Punjab TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
 
 
 
@@ -158,26 +158,23 @@ https://cdn-1.pishow.tv/live/36/master.m3u8
 https://cdn-1.pishow.tv/live/17/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Urdu " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="Entertainment (Hindi)",DD Urdu
 https://cdn-4.pishow.tv/live/8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ishara TV " tvg-logo="https://i.imgur.com/W5YlC2v.png" group-title="Entertainment (Hindi)", Ishara TV
-https://epiconvh.akamaized.net/live/ishaara/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Manoranjan TV " tvg-logo="https://i.imgur.com/YvAAgPo.png" group-title="Entertainment (Hindi)", Manoranjan TV
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-TV/5eab1433a609d2be14000010/small_16_9.jpg" group-title="Entertainment (Hindi)",SHEMAROO TV 
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony kal" tag-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="Entertainment (Hindi)",Sony kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment (Hindi)", &TV HD
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nazara" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4592.DistroTv.in/hi/1x1/208x208/test_pic1697701337563.webp" group-title="Entertainment (Hindi)",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE Q " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/The-Q/5fd3871ea609d2b6de000002/small_16_9.jpg" group-title="Entertainment (Hindi)",THE Q 
-https://vg-theqlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/af106101-cdb2-4a6e-b2da-c1dc4be0341c/2.m3u8
+https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dangal TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment (Hindi)",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Bharti" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Entertainment (Hindi)",DD Bharti
 https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chumbak TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/7/77/Chumbak-TV.png" group-title="Entertainment (Hindi)", Chumbak TV
-https://cdn-1.pishow.tv/live/1451/master.m3u8
+
 
 
 
@@ -185,9 +182,12 @@ https://cdn-1.pishow.tv/live/1451/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment",Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Infotainment",Travel 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/acad33f4-f31a-4366-a61d-0bc9a000dc0d/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
-https://epiconvh.akamaized.net/live/epic/master.m3u8
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Infotainment", CGTN Documentary
