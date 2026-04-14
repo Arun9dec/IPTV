@@ -98,27 +98,24 @@ https://cdn-4.pishow.tv/live/229/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="Music (Hindi)",9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/fa60134e-a62f-4748-82b9-4cf34581e8d3/3.m3u8
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="https://static.toiimg.com/thumb/msid-47826822,imgsize-14881,width-400,resizemode-4/47826822.jpg" group-title="Music (Hindi)",ZOOM TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA (504P)" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Music (Hindi)",9X JALWA (504P)
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTII (504p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music (Hindi)",MASTII (504p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/b20841bc-34dd-4131-a29a-5663b35fa9e0/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showbox " tvg-logo="https://www.epicon.in/img/new-show-box-logo.png" group-title="Music (Hindi)",Showbox 
-https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
+https://mumt02.tangotv.in/MASTIII/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E24 " tvg-logo="https://e24bollywood.com/wp-content/themes/news24theme/assets/images/logo.png" group-title="Music (Hindi)",E24 
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+https://mumt04.tangotv.in/E24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music (Hindi)",MUSIC INDIA 
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.b4umusic.in/images/logo.png" group-title="Music (Hindi)",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Filmigaane" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music (Hindi)",Shemaroo Filmigaane
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/11c44c68-23f7-40e7-af93-9d0ff000bc75/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YRF-music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music (Hindi)",YRF-Music 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Joo Music" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="Music (Hindi)",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
 
 
 
