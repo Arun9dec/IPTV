@@ -99,6 +99,10 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="All Time Movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies (Hindi)",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies (Hindi)",Box Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
+
 
 
 
@@ -178,6 +182,8 @@ https://epiconvh.akamaized.net/live/nazara/master.m3u8
 https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dangal TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment (Hindi)",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dangal-2 TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" group-title="Entertainment (Hindi)",Dangal-2 TV
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Bharti" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Entertainment (Hindi)",DD Bharti
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Magic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png" group-title="Entertainment (Hindi)",Big Magic
@@ -277,7 +283,7 @@ https://cdn.live.shemaroome.com/saileelatvchannel/smil:saileelatvchanneladp.smil
 #EXTINF:-1 tvg-id="" tvg-name="Atmadarshan TV" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Atmadarshan-Tv/60b872e3a609d2ae610000a7/small_16_9.jpg" group-title="Devotional (Hindi)",Atmadarshan TV
 https://atmadarshantv.shemaroo.com/hls18/atmadarshan/index.m3u8?hdnts=st=1641042075~exp=1641052875~acl=*~data=testdata~hmac=998425f3d79080ec868a010348ae6662cbb2e4ea4e5a66d0ad6b9b02f77cf628
 #EXTINF:-1 tvg-id="" tvg-name="Divya" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8043.Divya.in/en/1x1/208x208/test_pic1615290925975.webp" group-title="Devotional (Hindi)",Divya
-https://m-c07-j2apps.s.llnwi.net/hls/8043.Divya.in_480p/index.m3u8
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arihant TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="Devotional (Hindi)",Arihant TV
 https://snehtv.in1.bitmana.io/live.php?c=Arihant_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Darshan 24" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Devotional (Hindi)",Darshan 24
