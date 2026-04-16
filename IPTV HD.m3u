@@ -13,6 +13,8 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="ZEE UP/UK" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/upuk.svg" group-title="News (Hindi)",ZEE UP/UK 
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="ABP Ganga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ABP_Ganga.svg/500px-ABP_Ganga.svg.png" group-title="News (Hindi)",ABP Ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="INDIA TV" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="News (Hindi)",INDIA TV 
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="INDIA TV Speed-News" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="News (Hindi)",INDIA TV Speed-News
@@ -45,6 +47,8 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
 https://playhls.media.nic.in/live/ddnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AmarUjala" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="News (Hindi)",AmarUjala
+https://amarujala.ottlive.co.in/amarujala/index.m3u8
 
 
 
@@ -93,6 +97,8 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel WIN" tvg-logo="https://i.imgur.com/yrBBCO4.png" group-title="Movies (Hindi)", Channel WIN
 https://cdn-4.pishow.tv/live/229/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="All Time Movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies (Hindi)",All Time Movies
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 
 
@@ -179,10 +185,6 @@ https://cdn-1.pishow.tv/live/10/master.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" group-title="Infotainment",Travel 4K
-
 #EXTINF:-1 tvg-id="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Infotainment",Travel 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/acad33f4-f31a-4366-a61d-0bc9a000dc0d/1.m3u8
@@ -220,18 +222,22 @@ https://30a-tv.com/feeds/720p/6.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Aastha " tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png" group-title="Devotional (Hindi)",Aastha 
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aastha Bhajan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional (Hindi)",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aastha Prime 1" tvg-logo="https://i.imgur.com/LyWSMJS.png" group-title="Devotional (Hindi)",Aastha Prime 1
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aastha " tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png" group-title="Devotional (Hindi)",Aastha 
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sadhna-2" tvg-logo="http://www.sadhna.com/images/1.png" group-title="Devotional (Hindi)",Sadhna-2
 https://snehtv.in1.bitmana.io/live.php?c=Sadhna&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ishwar " tvg-logo="http://www.sadhna.com/images/2.jpg" group-title="Devotional (Hindi)",Ishwar 
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Devaam" tvg-logo="http://www.sadhna.com/images/3.png" group-title="Devotional (Hindi)",Devaam
 https://6n3yow8pl9ok-hls-live.5centscdn.com/devamlive/tv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aastha Bhajan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Devotional (Hindi)",Aastha Bhajan
-https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sanskar" tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="Devotional (Hindi)",Sanskar
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Satsang" tvg-logo="https://sanskargroup.in/img/satsang_logo_new.png" group-title="Devotional (Hindi)",Satsang
@@ -276,6 +282,12 @@ https://snehtv.in1.bitmana.io/live.php?c=Arihant_TV&q=800&e=.m3u8
 https://snehtv.in1.bitmana.io/live.php?c=Darshan_24&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jinvani Channel" tvg-logo="https://i.imgur.com/lztyGVi.png" group-title="Devotional (Hindi)", Jinvani Channel
 https://cdn-2.pishow.tv/live/989/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adhyatm TV" tvg-logo=""https://jiotvimages.cdn.jio.com/dare_images/images/Adhyatam_TV.png" group-title="Devotional (Hindi)", Adhyatm TV
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anand TV" tvg-logo=""https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png" group-title="Devotional (Hindi)", Anand TV
+https://live.legitpro.co.in/anandtv/index.m3u8
+
+
 
 
 
@@ -405,6 +417,7 @@ http://195.26.87.217/live.ts?channelId=199&uid=7438&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=198&uid=7438&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text-thumbnail.png" group-title="Movies (English)",CINEMAX
 http://170.254.18.106/CINEMAX/index.m3u8
+
 
 
 
