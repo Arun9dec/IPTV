@@ -21,6 +21,10 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="News18 India" tvg-logo="https://images.news18.com/ibnkhabar/uploads/assests/images/News18%20INDIA_LOGO_WEB_NEW_2.png" group-title="News (Hindi)",News18 India 
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="News18 Delhi/NCR" tvg-logo="https://dtil.tmsimg.com/assets/s143611_ld_h15_aa.png" group-title="News (Hindi)",News18 Delhi/NCR
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+
+
 #EXTINF:-1 tvg-id=""tvg-name="News 18 India UP/UK" tvg-logo="https://static.Hindi.news18.com/ibnkhabar/uploads/assests/img/Hindi-up-uk-for-web.gif" group-title="News (Hindi)",News 18 India UP/UK 
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="NEWS 24" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg" group-title="News (Hindi)",NEWS 24 
@@ -49,6 +53,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_
 https://playhls.media.nic.in/live/ddnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AmarUjala" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="News (Hindi)",AmarUjala
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_NATION/images/LOGO_HD/image.png" group-title="News (Hindi)",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
 
 
@@ -81,6 +87,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png" group-title="Movies (Hindi)",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies (Hindi)",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies (Hindi)",Maha Movie
 https://cdn-6.pishow.tv/live/10007/master.m3u8
 
@@ -163,6 +171,12 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Punjabi Hits Music " tvg-logo="https://i.imgur.com/i9xE87K.png" group-title="Punjabi",Punjabi Hits
 https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MH1 Dil Se " tvg-logo="https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png" group-title="Punjabi",MH1 Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MH1 Movies " tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" group-title="Punjabi",MH1 Movies
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://windowpunjab.com/wp-content/uploads/elementor/thumbs/Window-Punjab-Final-1-qptresxjgdwxtlpmzyjgpogtzao0yzkefgnn2q3280.png" group-title="Punjabi", Window Punjab TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 
@@ -188,6 +202,7 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nazara" tvg-logo="https://qqcdnpictest.mxplay.com/pic/4592.DistroTv.in/hi/1x1/208x208/test_pic1697701337563.webp" group-title="Entertainment (Hindi)",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE Q " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/The-Q/5fd3871ea609d2b6de000002/small_16_9.jpg" group-title="Entertainment (Hindi)",THE Q 
 https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dangal TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Entertainment (Hindi)",Dangal TV
@@ -453,6 +468,8 @@ http://195.201.82.32:5001/play/a002
 
 
 
+#EXTINF:-1 tvg-id="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="Lifestyle", NDTV Good Times
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Lifestyle", Zee Zest HD
 https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle", FTV
@@ -477,6 +494,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oscar Movies Bhojpuri" tag-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg" group-title="Bhojpuri", Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movieplex" tag-logo="https://i.imgur.com/THJEAqJ.png" group-title="Bhojpuri", Movieplex
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
 
 
 
