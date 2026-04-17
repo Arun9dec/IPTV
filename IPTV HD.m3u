@@ -75,6 +75,16 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Goldmines" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies (Hindi)",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Goldmines2" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="Movies (Hindi)",Goldmines2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png" group-title="Movies (Hindi)",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies (Hindi)",Maha Movie
+https://cdn-6.pishow.tv/live/10007/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/03/Bollywood-HD.jpg" group-title="Movies (Hindi)",Bollywood HD
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies (Hindi)",Bollywood HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -192,6 +202,9 @@ https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="History TV18 HD " tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png" group-title="Infotainment",History TV18 HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 
 #EXTINF:-1 tvg-id="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Infotainment",Travel 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
