@@ -243,6 +243,11 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment (Hindi)",Zee TV
 http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment (Hindi)",Colors
+http://103.229.254.25:7001/play/a077/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment (Hindi)",Colors HD
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+
 
 
 
@@ -455,10 +460,12 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 group-title="BBC News" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News (English)",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (English)",DW English
+#EXTINF:-1 group-title="DW News" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (English)",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="News (English)", CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png group-title="News (English)", Aljazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 
@@ -501,6 +508,8 @@ https://live.drmlive-02.workers.dev/zee/zee-cafe-hd.m3u8
 http://195.201.82.32:5001/play/a004
 #EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3WWmtVjazZD8CaHCSp5qR2bTZ5wvC5CraQ&usqp=CAU" group-title="Entertainment (English)",Star World HD
 http://195.201.82.32:5001/play/a002
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment (English)",Colors Infinity HD
+http://103.229.254.25:7001/play/a0du/index.m3u8
 
 
 
