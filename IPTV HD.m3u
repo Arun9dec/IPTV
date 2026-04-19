@@ -120,7 +120,14 @@ https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies (Hindi)",Box Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
-
+#EXTINF:-1 tvg-id="South Station" tvg-name="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="Movies (Hindi)",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-id="Star Gold HD" tvg-name="https://i.imgur.com/xC460sj.png" group-title="Movies (Hindi)",Star Gold HD
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold 2 HD" tvg-name="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" group-title="Movies (Hindi)",Star Gold 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="Star Gold Select HD" tvg-name="https://i.imgur.com/U7eiuqv.png" group-title="Movies (Hindi)",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
 
 
 
@@ -196,6 +203,13 @@ https://cdn-4.pishow.tv/live/8/master.m3u8
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-TV/5eab1433a609d2be14000010/small_16_9.jpg" group-title="Entertainment (Hindi)",SHEMAROO TV 
 https://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tag-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment (Hindi)",Sony SAB
+http://103.229.254.25:7001/play/a0db/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tag-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment (Hindi)",Star Plus
+http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony kal" tag-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="Entertainment (Hindi)",Sony kal
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment (Hindi)", &TV HD
@@ -344,7 +358,7 @@ https://live.drmlive-02.workers.dev/sliv/ten1.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports", SONY TEN 2
 https://live.drmlive-02.workers.dev/sliv/ten2.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", SONY TEN 3
-https://live.drmlive-02.workers.dev/sliv/ten3.m3u8
+http://103.229.254.25:7001/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports", SONY TEN 4
 https://live.drmlive-02.workers.dev/sliv/ten4.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports", SONY TEN 5
