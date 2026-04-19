@@ -55,6 +55,9 @@ https://playhls.media.nic.in/live/ddnews/index.m3u8
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News Nation" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_NATION/images/LOGO_HD/image.png" group-title="News (Hindi)",News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Asia" tvg-logo="https://i.imgur.com/a0BRhvr.png" group-title="News (Hindi)",TV Asia
+https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3u8
+
 
 
 
@@ -91,8 +94,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies (Hindi)",Maha Movie
 https://cdn-6.pishow.tv/live/10007/master.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood HD" tvg-logo="https://bx-tv.com/wp-content/uploads/2022/03/Bollywood-HD.jpg" group-title="Movies (Hindi)",Bollywood HD
 #EXTINF:-1 tvg-id="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies (Hindi)",Bollywood HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -128,6 +129,16 @@ http://103.229.254.25:7001/play/a0dd/index.m3u8
 http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="Star Gold Select HD" tvg-name="https://i.imgur.com/U7eiuqv.png" group-title="Movies (Hindi)",Star Gold Select HD
 http://103.229.254.25:7001/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="The Movie Club" tvg-name="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies (Hindi)",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-id="The Movie Club +2" tvg-name="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png" group-title="Movies (Hindi)",The Movie Club +2
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#EXTINF:-1 tvg-id="Zee Cine Classic" tvg-name="https://i.imgur.com/QCRhS1n.png" group-title="Movies (Hindi)",Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee Classic" tvg-name="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies (Hindi)",Zee Classic
+http://103.229.254.25:7001/play/a09w/index.m3u8
+#EXTINF:-1 tvg-id="Zee South Flix" tvg-name="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies (Hindi)",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
 
 
@@ -182,8 +193,6 @@ https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 Movies " tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" group-title="Punjabi",MH1 Movies
 https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Window Punjab TV" tvg-logo="https://windowpunjab.com/wp-content/uploads/elementor/thumbs/Window-Punjab-Final-1-qptresxjgdwxtlpmzyjgpogtzao0yzkefgnn2q3280.png" group-title="Punjabi", Window Punjab TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 
@@ -203,11 +212,8 @@ https://cdn-4.pishow.tv/live/8/master.m3u8
 https://cdn-1.pishow.tv/live/1013/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV " tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-TV/5eab1433a609d2be14000010/small_16_9.jpg" group-title="Entertainment (Hindi)",SHEMAROO TV 
 https://cdn-3.pishow.tv/live/230/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tag-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment (Hindi)",Sony SAB
 http://103.229.254.25:7001/play/a0db/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tag-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment (Hindi)",Star Plus
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony kal" tag-logo="https://sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="Entertainment (Hindi)",Sony kal
@@ -227,6 +233,17 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Magic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png" group-title="Entertainment (Hindi)",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unique TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Entertainment (Hindi)",Unique TV
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" group-title="Entertainment (Hindi)",Zee Comedy Nation
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Dil Se" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="Entertainment (Hindi)",Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Horror Nights" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Entertainment (Hindi)",Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment (Hindi)",Zee TV
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+
 
 
 
@@ -234,10 +251,13 @@ https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="History TV18 HD " tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png" group-title="Infotainment",History TV18 HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Weatherspy" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Infotainment",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Travel 4K" tvg-logo="https://w7.pngwing.com/pngs/281/674/png-transparent-logo-travel-channel-brand-television-channel-travel-city-blue-food-text-thumbnail.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Infotainment",Travel 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/acad33f4-f31a-4366-a61d-0bc9a000dc0d/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travelxp 4K HDR " tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Infotainment",Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EPIC TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Epic_TV_channel.jpg" group-title="Infotainment",EPIC TV 
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Kisan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2914.DDKisan.in/en/1x1/208x208/test_pic1535463411014.jpg" group-title="Infotainment",DD Kisan
@@ -487,7 +507,7 @@ http://195.201.82.32:5001/play/a002
 #EXTINF:-1 tvg-id="NDTV Good Times" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="Lifestyle", NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Lifestyle", Zee Zest HD
-https://live.drmlive-02.workers.dev/zee/zee-zest-hd.m3u8
+http://103.229.254.25:7001/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="FTV" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle", FTV
 https://i.mjh.nz/SamsungTVPlus/ATBA10000075C.m3u8
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://cdn-ilaijbf.nitrocdn.com/YzeYmKigJpOUmEDUPOsqjcZLGXECGjCN/assets/images/optimized/rev-b218c91/www.foodfood.com/wp-content/uploads/2024/04/header-logo.png" group-title="Lifestyle", FOOD FOOD
