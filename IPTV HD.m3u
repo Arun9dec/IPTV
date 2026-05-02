@@ -84,6 +84,8 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Hi Dost!" tvg-logo="https://i.imgur.com/bnST6y5.png" group-title="Movies (English)",Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Goldmines" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movies (Hindi)",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Goldmines2" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="Movies (Hindi)",Goldmines2
@@ -288,6 +290,10 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 http://116.90.120.149:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MrBeanAnimated" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Kids",MrBeanAnimated
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -470,8 +476,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/02.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Hi Dost!" tvg-logo="https://i.imgur.com/bnST6y5.png" group-title="Movies (English)",Hi Dost!
-https://cdn-1.pishow.tv/live/224/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg" group-title="Movies (English)",Colors Infinity HD
 https://live.drmlive-02.workers.dev/jc/1158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://www.sonypix.com/images/logo/sonypix-logo.svg" group-title="Movies (English)",Sony Pix
