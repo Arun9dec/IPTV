@@ -105,9 +105,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo JOSH" tvg-logo="https://shemarooent.com/assets/images/josh/shemaroo-josh-logo.png" group-title="Movies (Hindi)",Shemaroo JOSH
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies (Hindi)",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Dhakad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Abzy-dhakad.png" group-title="Movies (Hindi)",ABZY Dhakad
 http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY Movies" tvg-logo="https://abzy.com/wp-content/uploads/2021/07/Abzy-Movies-200x90.png" group-title="Movies (Hindi)",ABZY Movies
