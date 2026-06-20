@@ -62,7 +62,7 @@ https://amg00206-amg00206c1-distrotv-us-6886.playouts.now.amagi.tv/24-25-6886.m3
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ" tvg-logo="https://hindi.cnbctv18.com/static/images/common/cnbc-awaz-hindi.png" group-title="Business News",CNBC AWAAZ (504p)
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS" tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="Business News",ZEE BUSINESS 
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH" tvg-logo="https://static.toiimg.com/thumb/msid-86738265,width-1200,height-900,resizemode-4/.jpg" group-title="Business News",ET NOW SWADESH 
