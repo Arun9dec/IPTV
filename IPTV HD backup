@@ -152,6 +152,8 @@ https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel WIN" tvg-logo="https://i.imgur.com/yrBBCO4.png" group-title="Movies (Hindi)", Channel WIN
 https://cdn-4.pishow.tv/live/229/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZB Cinema" tvg-logo="https://cdn.technettv.com/channel/30955/logo_256.jpeg" group-title="Movies (Hindi)", ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/2026/07/01/15/43/24-07466.ts
 
 
 
