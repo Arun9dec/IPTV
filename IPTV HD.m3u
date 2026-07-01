@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name="Activate Playlist" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="DRM_Live",Activate Playlist
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=NWN1L3RvaU10ZVNRSW1jS3Rub1gzU2ZZdmJWUEpUYnR5SzdqMDNnRllORWJHS2lRbkVlbUdzMjJqQ2dhMjdKRzJURnpiMklISFk1ZHRPTjZCV3pRanh0MmpiUnpOcWFFbDJGTWJwZm8wUGZWNWhGdEZWZ1pwdTlnNlM4RDVlM3U=
+
+#EXTINF:-1 tvg-id=""tvg-name="Sony Wah" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="News (Hindi)",Sony Wah
+https://la.drmlive.net/tp/sliv-wah.m3u8
+
 #EXTINF:-1 tvg-id=""tvg-name="Aajtak HD" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-191x84.png" group-title="News (Hindi)",Aajtak HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="AAJTAK " tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News (Hindi)",AAJTAK 
