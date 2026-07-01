@@ -23,10 +23,12 @@ https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chu
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="News18 Delhi/NCR" tvg-logo="https://dtil.tmsimg.com/assets/s143611_ld_h15_aa.png" group-title="News (Hindi)",News18 Delhi/NCR
 https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
-
-
 #EXTINF:-1 tvg-id=""tvg-name="News 18 India UP/UK" tvg-logo="https://static.Hindi.news18.com/ibnkhabar/uploads/assests/img/Hindi-up-uk-for-web.gif" group-title="News (Hindi)",News 18 India UP/UK 
 https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_hin=98800-video=2293600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://img.republicworld.com/logo/hindi/republic-logo-bharat.svg" group-title="News (Hindi)",Republic Bharat 
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="NEWS 24" tvg-logo="https://news24online.com/wp-content/themes/news24theme/assets/images/logo.jpeg" group-title="News (Hindi)",NEWS 24 
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV9 Bharatvarsh" tvg-logo="https://i.imgur.com/GEqUslW.png" group-title="News (Hindi)",TV9 Bharatvarsh 
@@ -45,10 +47,6 @@ https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 https://playhls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sansad TV (Rajyasabha)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="News (Hindi)",Sansad TV (Rajyasabha)
 https://playhls.media.nic.in/live/rstv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://img.republicworld.com/logo/hindi/republic-logo-bharat.svg" group-title="News (Hindi)",Republic Bharat 
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="https://ndtv.in/static/images/front/ndtvlogo.png" group-title="News (Hindi)",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="https://ddnews.gov.in/wp-content/uploads/2024/04/dd-news-logo.png" group-title="News (Hindi)",DD News
 https://playhls.media.nic.in/live/ddnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AmarUjala" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="News (Hindi)",AmarUjala
